@@ -1,0 +1,1295 @@
+#Resume a, #project-2 a {
+    color: white !important;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+}
+
+
+.small-text-wrapper,
+.nav-wrapper,
+#skills-wrapper,
+#about-me-wrapper,
+.project-wrapper {
+    margin: 0 15% 0 15%;
+}
+
+.nav-wrapper {
+    display: flex;
+    /* Make the container a flexbox */
+    justify-content: space-between;
+    /* Distribute space between elements */
+    align-items: center;
+    /* Align items vertically at the center */
+    padding: 10px;
+    /* Optional: add some padding around the nav */
+    height: 10vh;
+    padding-right: 7%;
+}
+
+.nav-logo-wrapper {
+    font-size: 3rem;
+}
+
+nav {
+    height: 10vh;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding-left: 9%;
+}
+
+:root {
+    --font--sora: 'Sora', sans-serif;
+}
+
+nav a {
+    color: black;
+    margin: 0 20px;
+    font-family: var(--font--sora);
+    font-size: larger;
+    font-weight: 600;
+    transition: color .3s;
+}
+
+nav a:visited {
+    color: black;
+}
+
+nav a:hover {
+    color: #999;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+body {
+    margin: 0%;
+}
+
+#Resume {
+    grid-column-gap: 8px;
+    grid-row-gap: 8px;
+    background-color: var(--colore--black);
+    cursor: pointer;
+    border-radius: 4px;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 30px;
+    transition: background-color .3s;
+    display: flex;
+    background-color: black;
+    font-family: var(--font--sora);
+}
+
+#Resume:hover {
+    background-color: #444;
+}
+
+.small-text-wrapper {
+    height: 80vh;
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    /* Adjust as necessary */
+    text-align: center;
+}
+
+.me,
+.info,
+.contact {
+    font-family: var(--font--sora);
+    grid-column: 2;
+    /* Keep both in the middle column */
+    padding: 0;
+    /* Remove padding to prevent extra spacing */
+    margin: 0;
+    /* Remove default margin */
+}
+
+/*Displays : Hello, I am Fenando*/
+.me {
+    display: flex;
+    flex-direction: column;
+    /* Stack elements vertically */
+    justify-content: center;
+    /* Center content vertically */
+    align-items: center;
+    /* Center content horizontally */
+    text-align: center;
+    /* Center text inside each element */
+    height: 45vh;
+    /* Ensure there's enough height to center content */
+
+}
+
+.me h1 {
+    font-size: 7rem;
+    margin: 0;
+    /* Remove default margin */
+}
+
+.me h3 {
+    font-size: 1.5rem;
+    margin: 0;
+    /* Remove default margin */
+}
+
+/*Display info about me*/
+
+.info {
+    margin-top: 10px;
+    /* Optional: control space between .me and .info */
+    height: 20vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+}
+
+
+.info p {
+
+    margin: 0% 10% 0 10%;
+    text-align: center;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    /* Centers vertically */
+    justify-content: center;
+    /* Centers horizontally */
+    text-align: center;
+    /* Ensures text is centered */
+    gap: 3%
+}
+
+hr {
+    width: 80%;
+    /* Adjust the width of the line */
+    margin: 20px auto;
+    /* Center the line with top and bottom margin */
+    border: 0;
+    /*DONT ERASE THIS ONE*/
+    border: 3px solid black;
+    /*DONT ERASE THIS ONE*/
+}
+
+#skills-wrapper {
+    grid-column: 1;
+    height: 100%;
+    scroll-margin-top: 20vh;
+    padding-bottom: 4%;
+}
+
+.skills-title,
+.project-title {
+    display: flex;
+    gap: 0.5%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    font-size: xx-large
+}
+
+.set-skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: 40vh;
+}
+
+.skill {
+    border-radius: 3%;
+    display: flex;
+    flex-direction: column;
+    /* Stack items vertically */
+    align-items: center;
+    /* Center items horizontally */
+    justify-content: center;
+    margin: 5% 15% 0% 15%;
+    text-align: center;
+    /* Center text inside the container */
+    font-family: var(--font--sora);
+    font-size: larger;
+    transition: background-color .3s;
+}
+
+.skill img {
+    display: flex;
+    padding-top: 5%;
+}
+
+.skill:hover {
+    background-color: #999;
+}
+
+
+.my,
+.code1 h2 {
+    font-family: var(--font--sora);
+    font-size: larger;
+}
+
+.skills,
+.myself,
+.project-me {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#projects-wrapper {
+    background-color: black;
+    height: 180vh;
+    scroll-margin-top: 10vh;
+}
+
+#projects-wrapper .project-title {
+    color: white;
+    display: flex;
+}
+
+#project-1,
+#project-3 {
+    display: flex;
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 10%;
+    margin: 1% 15% 0 15%;
+    font-family: var(--font--sora);
+    transition: transform 0.8s ease-in-out;
+}
+
+#project-2 {
+    display: flex;
+    flex-direction: row-reverse; /* Text first, then image */
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 10%;
+    margin: 1% 15% 0 15%;
+    font-family: var(--font--sora);
+    transition: transform 0.8s ease-in-out;
+}
+
+.project-text {
+    width: 80%;
+}
+
+.project-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4%;
+}
+
+
+#project-1:hover,
+#project-2:hover,
+#project-3:hover {
+    transform: scale(1.1);
+}
+
+
+.project-info-wrapper img {
+    border-radius: 4%;
+}
+
+
+/*ABOUT ME WRAPPER*/
+#about-me-wrapper {
+    background-color: white;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.about-me {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    margin: 5%;
+    transition: transform 0.8s ease-in-out;
+}
+
+.about-me:hover {
+    transform: scale(1.1);
+    /* Expand the element by 20% on hover */
+}
+
+.about-me img {
+    grid-column: 1;
+    display: flex;
+    border-radius: 7px;
+    height: 500px;
+    width: 450px;
+}
+
+.bio {
+    grid-column: 2;
+    --font--sora: 'Sora', sans-serif;
+}
+
+.about-me-title {
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+
+}
+
+.myself {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    font-family: var(--font--sora);
+}
+
+.about-text {
+    font-size: 50px;
+}
+
+p {
+    font-family: var(--font--sora);
+}
+
+/* Slider Container */
+.slides-container {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    justify-content: center; /* Centers images */
+    align-items: center;
+}
+
+.slide {
+    width: 100%;
+    height: auto;
+     max-height: 700px; /*Adjust based on your needs */
+    object-fit: contain; /* Ensures full image is visible */
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.slide.active {
+    opacity: 1;
+    position: relative;
+}
+
+
+/* Buttons styling */
+button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#prevBtn {
+    left: 10px;
+}
+
+#nextBtn {
+    right: 10px;
+}
+
+/*-------------------------------------------------------*/
+
+
+/*-----------FOOTER--------------------------------------------*/
+
+.footer-main, footer {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Sora', sans-serif;
+}
+
+.footer-main p {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.footer-main ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-main ul li {
+    margin: 5px 0;
+}
+
+.footer-main ul li a {
+    color: #ddd;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.footer-main ul li a:hover {
+    color: grey;
+}
+
+
+/*Scroll bar color*/
+* {
+    scrollbar-color: black #f1f1f1; /* thumb color and track color */
+    scrollbar-width: thin; /* "thin", "auto", or "none" */
+  }
+
+
+@media only screen and (min-width: 1281px) {
+
+    .small-text-wrapper,
+    .nav-wrapper,
+    #skills-wrapper,
+    #about-me-wrapper,
+    .project-wrapper {
+        margin: 0 15% 0 15%;
+    }
+
+    #projects-wrapper {
+        border: 5px solid black;
+        height: 190vh;
+    }
+
+    .about-me {
+        margin: 10%;
+        margin-left: 10%;
+    }
+
+    .about-me img {
+        height: 450px;
+        width: 350px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1281px) {
+    #Resume a, #project-2 a {
+    color: white !important;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+}
+
+
+.small-text-wrapper,
+.nav-wrapper,
+#skills-wrapper,
+#about-me-wrapper,
+.project-wrapper {
+    margin: 0 15% 0 15%;
+}
+
+.nav-wrapper {
+    display: flex;
+    /* Make the container a flexbox */
+    justify-content: space-between;
+    /* Distribute space between elements */
+    align-items: center;
+    /* Align items vertically at the center */
+    padding: 10px;
+    /* Optional: add some padding around the nav */
+    height: 10vh;
+    padding-right: 7%;
+}
+
+.nav-logo-wrapper {
+    font-size: 3rem;
+}
+
+nav {
+    height: 10vh;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding-left: 9%;
+}
+
+:root {
+    --font--sora: 'Sora', sans-serif;
+}
+
+nav a {
+    color: black;
+    margin: 0 20px;
+    font-family: var(--font--sora);
+    font-size: larger;
+    font-weight: 600;
+}
+
+nav a:visited {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+body {
+    margin: 0%;
+}
+
+#Resume {
+    grid-column-gap: 8px;
+    grid-row-gap: 8px;
+    background-color: var(--colore--black);
+    cursor: pointer;
+    border-radius: 4px;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 30px;
+    transition: background-color .3s;
+    display: flex;
+    background-color: black;
+    font-family: var(--font--sora);
+}
+
+#Resume:hover {
+    background-color: #444;
+}
+
+.small-text-wrapper {
+    height: 80vh;
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    /* Adjust as necessary */
+    text-align: center;
+}
+
+.me,
+.info,
+.contact {
+    font-family: var(--font--sora);
+    grid-column: 2;
+    /* Keep both in the middle column */
+    padding: 0;
+    /* Remove padding to prevent extra spacing */
+    margin: 0;
+    /* Remove default margin */
+}
+
+/*Displays : Hello, I am Fenando*/
+.me {
+    display: flex;
+    flex-direction: column;
+    /* Stack elements vertically */
+    justify-content: center;
+    /* Center content vertically */
+    align-items: center;
+    /* Center content horizontally */
+    text-align: center;
+    /* Center text inside each element */
+    height: 45vh;
+    /* Ensure there's enough height to center content */
+
+}
+
+.me h1 {
+    font-size: 7rem;
+    margin: 0;
+    /* Remove default margin */
+}
+
+.me h3 {
+    font-size: 1.5rem;
+    margin: 0;
+    /* Remove default margin */
+}
+
+/*Display info about me*/
+
+.info {
+    margin-top: 10px;
+    /* Optional: control space between .me and .info */
+    height: 20vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+}
+
+.info p {
+
+    margin: 0% 10% 0 10%;
+    text-align: center;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    /* Centers vertically */
+    justify-content: center;
+    /* Centers horizontally */
+    text-align: center;
+    /* Ensures text is centered */
+    gap: 3%
+}
+
+hr {
+    width: 80%;
+    /* Adjust the width of the line */
+    margin: 20px auto;
+    /* Center the line with top and bottom margin */
+    border: 0;
+    /*DONT ERASE THIS ONE*/
+    border: 3px solid black;
+    /*DONT ERASE THIS ONE*/
+}
+
+#skills-wrapper {
+    grid-column: 1;
+    height: 100%;
+    scroll-margin-top: 20vh;
+    padding-bottom: 4%;
+}
+
+.skills-title,
+.project-title {
+    display: flex;
+    gap: 0.5%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    font-size: xx-large
+}
+
+.set-skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    height: 40vh;
+}
+
+.skill {
+    border-radius: 3%;
+    display: flex;
+    flex-direction: column;
+    /* Stack items vertically */
+    align-items: center;
+    /* Center items horizontally */
+    justify-content: center;
+    margin: 5% 15% 0% 15%;
+    text-align: center;
+    /* Center text inside the container */
+    font-family: var(--font--sora);
+    font-size: larger;
+    transition: background-color .3s;
+}
+
+.skill img {
+    display: flex;
+    padding-top: 5%;
+}
+
+.skill:hover {
+    background-color: #999;
+}
+
+
+.my,
+.code1 h2 {
+    font-family: var(--font--sora);
+    font-size: larger;
+}
+
+.skills,
+.myself,
+.project-me {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#projects-wrapper {
+    background-color: black;
+    height: 170vh;
+    scroll-margin-top: 10vh;
+}
+
+#projects-wrapper .project-title {
+    color: white;
+    display: flex;
+}
+
+#project-1,
+#project-3 {
+    display: flex;
+    color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 10%;
+    margin: 1% 15% 0 15%;
+    font-family: var(--font--sora);
+    transition: transform 0.8s ease-in-out;
+}
+
+#project-2 {
+    display: flex;
+    flex-direction: row-reverse; /* Text first, then image */
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 10%;
+    margin: 1% 15% 0 15%;
+    font-family: var(--font--sora);
+    transition: transform 0.8s ease-in-out;
+}
+
+.project-text {
+    width: 80%;
+}
+
+.project-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4%;
+}
+
+
+#project-1:hover,
+#project-2:hover,
+#project-3:hover {
+    transform: scale(1.1);
+}
+
+
+.project-info-wrapper img {
+    border-radius: 4%;
+}
+
+
+/*ABOUT ME WRAPPER*/
+#about-me-wrapper {
+    background-color: white;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.about-me {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    margin: 5%;
+    transition: transform 0.8s ease-in-out;
+}
+
+.about-me:hover {
+    transform: scale(1.1);
+    /* Expand the element by 20% on hover */
+}
+
+.about-me img {
+    grid-column: 1;
+    display: flex;
+    border-radius: 7px;
+    height: 500px;
+    width: 450px;
+}
+
+.bio {
+    grid-column: 2;
+}
+
+.about-me-title {
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+
+}
+
+.myself {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    --font--sora: 'Sora', sans-serif;
+}
+
+.about-text {
+    font-size: 50px;
+}
+
+p {
+    --font--sora: 'Sora', sans-serif;
+}
+
+
+
+
+
+/* Slider Container */
+.slides-container {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    width: 100%;
+    overflow: hidden;
+    /* Hide anything overflowing from the container */
+}
+
+.slide {
+    width: 100%;
+    height: auto; /* Adjust the height based on the aspect ratio */
+    object-fit: contain; /* Ensure the image fits without being cropped */
+    display: none; /* Hide all images initially */
+}
+
+.slide.active {
+    display: block; /* Show only the active image */
+}
+
+/* Buttons styling */
+button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#prevBtn {
+    left: 10px;
+}
+
+#nextBtn {
+    right: 10px;
+}
+
+/*-------------------------------------------------------*/
+
+
+/*-----------FOOTER--------------------------------------------*/
+
+.footer-main, footer {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Sora', sans-serif;
+}
+
+.footer-main p {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.footer-main ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-main ul li {
+    margin: 5px 0;
+}
+
+.footer-main ul li a {
+    color: #ddd;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.footer-main ul li a:hover {
+    color: grey;
+}
+
+
+@media only screen and (min-width: 1281px) {
+    #Resume a, #project-2 a {
+        color: white !important;
+    }
+
+    .small-text-wrapper,
+    .nav-wrapper,
+    #skills-wrapper,
+    #about-me-wrapper,
+    .project-wrapper {
+        margin: 0 15% 0 15%;
+    }
+
+    #projects-wrapper {
+        border: 5px solid black;
+        height: 190vh;
+    }
+
+    .about-me {
+        margin: 10%;
+        margin-left: 10%;
+    }
+
+    .about-me img {
+        height: 450px;
+        width: 350px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1281px) {
+    #Resume a, #project-2 a {
+        color: white !important;
+    }
+    #projects-wrapper {
+        height: 190vh;
+    }
+
+    .small-text-wrapper,
+    .nav-wrapper,
+    #skills-wrapper,
+    #about-me-wrapper,
+    .project-wrapper {
+        margin: 0 5% 0 5%;
+    }
+
+    .about-me img {
+        height: 400px;
+        width: 300px;
+    }
+
+    .project-info-wrapper img {
+        height: 300px;
+        width: 400px;
+    }
+
+    #projects-wrapper {
+        height: 150vh;
+        scroll-margin-top: 10vh;
+    }
+
+    #projects-wrapper p {
+        font-size: small;
+    }
+
+    #projects-wrapper div {
+        padding-top: 3%;
+    }
+
+    .about-me {
+        margin: 0 10% 0 10%;
+    }
+}
+
+/* Small screens (below 768px) */
+@media only screen and (max-width: 767px) {
+
+    #Resume a, #project-2 a {
+        color: white !important;
+    }
+
+    .left-links .home{
+        display: block;
+    }
+
+    .small-text-wrapper,
+    .nav-wrapper,
+    #skills-wrapper,
+    #about-me-wrapper,
+    .project-wrapper {
+        margin: 0 0 0 0;
+    }
+
+    .me h1 {
+        font-size: 4.5rem;
+        margin: 0;
+        /* Remove default margin */
+    }
+
+
+    .me {
+        height: 35vh;
+    }
+
+    .info {
+        font-size: small;
+        margin-top: 0;
+        height: 30vh;
+    }
+
+    .contact {
+        height: 15vh;
+        display: flex;
+        align-items: center;
+        /* Centers vertically */
+        justify-content: center;
+        /* Centers horizontally */
+        text-align: center;
+        /* Ensures text is centered */
+        width: 100%;
+    }
+
+    .contact img {
+        height: 30px;
+        width: 30px;
+        display: block;
+    }
+
+    #project-1,
+    #project-2,
+    #project-3 {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-size: x-small;
+    }
+
+    .project-info-wrapper img {
+        height: 200px;
+        width: 200px;
+        margin-top: 7%;
+    }
+
+    #projects-wrapper{
+        height: 180vh;
+    }
+
+    #about-me-wrapper{
+        display: flex;
+    }
+
+    .left-links{
+        display: none;
+    }
+
+    .about-me{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about-me img{
+        height: 300px;
+        width: 200px;
+        margin-top: 5%;
+    }
+
+    .about-me-title{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: small;
+        margin-top: 5%;
+
+    }
+
+    .about-text, .myself{
+        font-size: x-large;
+    }
+
+    .info{
+        font-size: small;
+    }
+
+    .bio p{
+        font-size: small;
+    }
+
+}
+
+    #projects-wrapper {
+        height: 190vh;
+    }
+
+    .small-text-wrapper,
+    .nav-wrapper,
+    #skills-wrapper,
+    #about-me-wrapper,
+    .project-wrapper {
+        margin: 0 5% 0 5%;
+    }
+
+    .about-me img {
+        height: 400px;
+        width: 300px;
+    }
+
+    .project-info-wrapper img {
+        height: 300px;
+        width: 400px;
+    }
+
+    #projects-wrapper {
+        height: 150vh;
+        scroll-margin-top: 10vh;
+    }
+
+    #projects-wrapper p {
+        font-size: small;
+    }
+
+    #projects-wrapper div {
+        padding-top: 3%;
+    }
+
+    .about-me {
+        margin: 0 10% 0 10%;
+    }
+}
+
+/* Small screens (below 768px) */
+@media only screen and (max-width: 767px) {
+
+    #Resume a, #project-2 a {
+        color: white !important;
+    }
+
+    .left-links .home{
+        display: block;
+    }
+
+    .small-text-wrapper,
+    .nav-wrapper,
+    #skills-wrapper,
+    #about-me-wrapper,
+    .project-wrapper {
+        margin: 0 0 0 0;
+    }
+
+    .me h1 {
+        font-size: 4.5rem;
+        margin: 0;
+        /* Remove default margin */
+    }
+
+
+    .me {
+        height: 35vh;
+    }
+
+    .info {
+        font-size: small;
+        margin-top: 0;
+        height: 30vh;
+    }
+
+    .contact {
+        height: 15vh;
+        display: flex;
+        align-items: center;
+        /* Centers vertically */
+        justify-content: center;
+        /* Centers horizontally */
+        text-align: center;
+        /* Ensures text is centered */
+        width: 100%;
+    }
+
+    .contact img {
+        height: 30px;
+        width: 30px;
+        display: block;
+    }
+
+    #project-1,
+    #project-2,
+    #project-3 {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-size: x-small;
+    }
+
+    .project-info-wrapper img {
+        height: 200px;
+        width: 200px;
+        margin-top: 7%;
+    }
+
+    #projects-wrapper{
+        height: 180vh;
+    }
+
+    #about-me-wrapper{
+        display: flex;
+    }
+
+    .left-links{
+        display: none;
+    }
+
+    .about-me{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about-me img{
+        height: 300px;
+        width: 200px;
+        margin-top: 5%;
+    }
+
+    .about-me-title{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: small;
+        margin-top: 5%;
+
+    }
+
+    .about-text, .myself{
+        font-size: x-large;
+    }
+
+    .info{
+        font-size: small;
+    }
+
+    .bio p{
+        font-size: small;
+    }
+
+}

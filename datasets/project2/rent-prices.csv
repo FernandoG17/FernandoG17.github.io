@@ -1,0 +1,1166 @@
+"City","Address","0 Bedroom","1 Bedroom","2 Bedroom","3 Bedroom","id"
+"Vancouver","3350 Prince Albert St, Vancouver, BC",2278.0,2709.0,3415.0,4945.0,1
+"Vancouver","1770 Pendrell Street, Vancouver, BC",0.0,0.0,0.0,5150.0,2
+"Vancouver","825 Nicola Street, Vancouver, BC",2750.0,2549.0,0.0,0.0,3
+"Vancouver","1477 Continental Street, Vancouver, BC",2319.0,0.0,3400.0,4840.0,4
+"Vancouver","1529 West Pender Street, Vancouver, BC",0.0,2699.0,0.0,0.0,5
+"Vancouver","1661 Davie Street, Vancouver, BC",1809.0,0.0,0.0,4945.0,6
+"Vancouver","930 Seymour Street, Vancouver, BC",0.0,2299.0,0.0,4795.0,7
+"Vancouver","1100 Harwood condos, Vancouver, BC",0.0,2880.0,0.0,0.0,8
+"Vancouver","3583 Kingsway, Vancouver, BC",2275.0,2600.0,3839.0,5150.0,9
+"Vancouver","8735 Selkirk St, Vancouver, BC",0.0,0.0,4500.0,0.0,10
+"Vancouver","23 W Cordova St., Vancouver, BC",0.0,2540.0,0.0,0.0,11
+"Vancouver","3435 Sawmill Crescent, Vancouver, BC",2241.63,0.0,3750.0,4840.0,12
+"Vancouver","1045 Haro Street, Vancouver, BC",0.0,2815.44,0.0,0.0,13
+"Vancouver","1086 Bute Street, Vancouver, BC",2664.0,2869.0,3145.0,4796.96,14
+"Vancouver","3780 Clark Drive, Vancouver, BC",0.0,2618.48,0.0,0.0,15
+"Vancouver","1270 Nicola Street, Vancouver, BC",0.0,2709.0,0.0,0.0,16
+"Vancouver","1529 West Pender Street, Vancouver, BC",2278.0,2849.0,3415.0,4945.0,17
+"Vancouver","1580 Haro Street, Vancouver, BC",0.0,2695.0,0.0,0.0,18
+"Burnaby","7465 13 Avenue, Burnaby, BC",0.0,2080.0,0.0,0.0,19
+"Vancouver","1100 Harwood condos, Vancouver, BC",0.0,2546.06,0.0,4795.0,20
+"Vancouver","23 W Cordova St., Vancouver, BC",2750.0,3005.0,0.0,5150.0,21
+"Burnaby","4733 Hazel St, Burnaby, BC",0.0,2080.0,2950.0,0.0,22
+"Vancouver","1348 Barclay Street, Vancouver, BC",0.0,0.0,0.0,0.0,23
+"Vancouver","1045 Haro Street, Vancouver, BC",2319.0,2699.0,3400.0,0.0,24
+"Vancouver","2139 Lahb Ave, Vancouver, BC",0.0,2549.0,0.0,0.0,25
+"Vancouver","3780 Clark Drive, Vancouver, BC",1809.0,2880.0,0.0,4840.0,26
+"Vancouver","723 Main St, Vancouver, BC",0.0,0.0,0.0,0.0,27
+"Burnaby","2181 Madison Avenue, Burnaby, BC",0.0,2299.0,0.0,0.0,28
+"Vancouver","1270 Nicola Street, Vancouver, BC",0.0,2540.0,0.0,4796.96,29
+"Surrey","13228 Old Yale Road, Surrey, BC",2175.0,2549.0,2599.0,3500.0,30
+"Burnaby","6611 Southoaks Crescent, Burnaby, BC",0.0,0.0,2736.41,0.0,31
+"Vancouver","1580 Haro Street, Vancouver, BC",2275.0,2709.0,3839.0,4945.0,32
+"Vancouver","1320 Bute Street, Vancouver, BC",0.0,0.0,0.0,0.0,33
+"Vancouver","1348 Barclay Street, Vancouver, BC",0.0,2695.0,4500.0,4795.0,34
+"Surrey","13655 FRASER HWY, Surrey, BC",1899.0,0.0,3370.0,2700.0,35
+"Vancouver","939 Beatty Street, Vancouver, BC",0.0,2299.0,0.0,0.0,36
+"Burnaby","7388 Macpherson Ave, Burnaby, BC",0.0,0.0,2663.78,0.0,37
+"Vancouver","2139 Lahb Ave, Vancouver, BC",2241.63,0.0,3750.0,5150.0,38
+"Burnaby","7425 18th Avenue, Burnaby, BC",0.0,2000.0,2715.0,0.0,39
+"Vancouver","1649 E Broadway, Vancouver, BC",0.0,2600.0,0.0,0.0,40
+"Vancouver","723 Main St, Vancouver, BC",2515.0,2549.0,3145.0,0.0,41
+"Surrey","13555 96 Avenue, Surrey, BC",2160.0,0.0,0.0,2700.0,42
+"Burnaby","3836 Carrigan Court, Burnaby, BC",0.0,2650.0,3124.0,0.0,43
+"Vancouver","1320 Bute Street, Vancouver, BC",2664.0,0.0,3351.39,4796.96,44
+"Vancouver","939 Beatty Street, Vancouver, BC",2423.44,0.0,3415.0,4945.0,45
+"Surrey","15632 37 AVE, Surrey, BC",2325.0,2299.0,2950.0,3000.0,46
+"Vancouver","1649 E Broadway, Vancouver, BC",2278.0,2299.0,0.0,4795.0,47
+"Vancouver","945 Jervis Street, Vancouver, BC",0.0,0.0,0.0,0.0,48
+"Surrey","18883 65 Avenue, Surrey, BC",2175.0,2600.0,0.0,2700.0,49
+"Vancouver","945 Jervis Street, Vancouver, BC",0.0,2600.0,0.0,5150.0,50
+"Vancouver","1051 Broughton Street, Vancouver, BC",0.0,0.0,0.0,0.0,51
+"Vancouver","1051 Broughton Street, Vancouver, BC",2750.0,0.0,3400.0,4840.0,52
+"Surrey","14488 103a Avenue, Surrey, BC",1899.0,0.0,2736.41,2450.0,53
+"Vancouver","3350 Prince Albert St, Vancouver, BC",0.0,2869.0,0.0,0.0,54
+"Burnaby","8950 University High Street, Burnaby, BC",0.0,2100.0,2695.0,0.0,55
+"Vancouver","3350 Prince Albert St, Vancouver, BC",2319.0,0.0,0.0,4796.96,56
+"Surrey","9660 Regent Place, Surrey, BC",2160.0,0.0,2663.78,2700.0,57
+"Burnaby","4390 Grange Street, Burnaby, BC",0.0,2167.94,3730.0,0.0,58
+"Vancouver","1770 Pendrell Street, Vancouver, BC",1809.0,2869.0,0.0,4945.0,59
+"Burnaby","4769 Hazel Street, Burnaby, BC",0.0,2295.0,2495.0,0.0,60
+"Vancouver","1770 Pendrell Street, Vancouver, BC",0.0,2546.06,0.0,0.0,61
+"Vancouver","825 Nicola Street, Vancouver, BC",0.0,2849.0,3839.0,4795.0,62
+"Surrey","10736 150 Street, Surrey, BC",2325.0,2869.0,2715.0,2700.0,63
+"Vancouver","825 Nicola Street, Vancouver, BC",0.0,3005.0,0.0,0.0,64
+"Vancouver","1477 Continental Street, Vancouver, BC",2275.0,2546.06,4500.0,5150.0,65
+"Surrey","9555 128 Street, Surrey, BC",2175.0,2546.06,3124.0,2700.0,66
+"Burnaby","7191 Barnet Road, Burnaby, BC",0.0,2227.34,2495.0,0.0,67
+"Vancouver","1661 Davie Street, Vancouver, BC",0.0,3005.0,3750.0,0.0,68
+"Surrey","7155 Hall Road, Surrey, BC",1899.0,3005.0,2695.0,2700.0,69
+"Burnaby","5051 Lougheed Highway, Burnaby, BC",0.0,2192.34,2599.0,0.0,70
+"Vancouver","1477 Continental Street, Vancouver, BC",0.0,2699.0,0.0,0.0,71
+"Vancouver","930 Seymour Street, Vancouver, BC",2241.63,2699.0,3145.0,4840.0,72
+"Burnaby","1820 Willingdon Ave, Burnaby, BC",0.0,2295.0,3370.0,0.0,73
+"Vancouver","3583 Kingsway, Vancouver, BC",2515.0,2880.0,3351.39,4796.96,74
+"Vancouver","1661 Davie Street, Vancouver, BC",0.0,2880.0,0.0,0.0,75
+"Burnaby","3866 Evergreen Pl, Burnaby, BC",0.0,2095.0,0.0,0.0,76
+"Surrey","12685 110 Avenue 11018 126A Street & 12667 110A Ave, Surrey, BC",2160.0,2699.0,3730.0,3300.0,77
+"Vancouver","8735 Selkirk St, Vancouver, BC",2664.0,2540.0,3415.0,4945.0,78
+"Burnaby","3055 North Road, Burnaby, BC",0.0,0.0,2950.0,0.0,79
+"Vancouver","3435 Sawmill Crescent, Vancouver, BC",2423.44,2815.44,0.0,4795.0,80
+"Surrey","5772 177B Street, Surrey, BC",2325.0,2880.0,2495.0,3500.0,81
+"Burnaby","5130 Irving Street, Burnaby, BC",0.0,2080.0,0.0,0.0,82
+"Vancouver","1086 Bute Street, Vancouver, BC",2278.0,2618.48,0.0,0.0,83
+"Surrey","12747 102 Avenue, Surrey, BC",2175.0,2540.0,2495.0,2700.0,84
+"Burnaby","6044 Wilson Avenue, Burnaby, BC",0.0,2080.0,2736.41,0.0,85
+"Vancouver","1529 West Pender Street, Vancouver, BC",0.0,2709.0,3400.0,4840.0,86
+"Surrey","7121 133 B street, Surrey, BC",1899.0,2815.44,2599.0,2700.0,87
+"Burnaby","9303 Salish Court, Burnaby, BC",0.0,2299.0,2663.78,0.0,88
+"Vancouver","1100 Harwood condos, Vancouver, BC",2750.0,2695.0,0.0,4796.96,89
+"Surrey","3317 148 Street, Surrey, BC",2160.0,2618.48,3370.0,3000.0,90
+"Vancouver","930 Seymour Street, Vancouver, BC",0.0,2540.0,0.0,0.0,91
+"Surrey","9873 King George Blvd., Surrey, BC",1699.0,2709.0,0.0,2700.0,92
+"Vancouver","3583 Kingsway, Vancouver, BC",0.0,2815.44,0.0,0.0,93
+"Burnaby","9502 Erickson Drive, Burnaby, BC",0.0,0.0,2715.0,0.0,94
+"Vancouver","23 W Cordova St., Vancouver, BC",2319.0,0.0,0.0,0.0,95
+"Surrey","14955 107A Avenue, Surrey, BC",0.0,2695.0,2950.0,2450.0,96
+"Vancouver","8735 Selkirk St, Vancouver, BC",0.0,2618.48,0.0,0.0,97
+"Burnaby","9500 Erickson Drive, Burnaby, BC",0.0,0.0,3124.0,0.0,98
+"Vancouver","1045 Haro Street, Vancouver, BC",1809.0,2549.0,3839.0,0.0,99
+"Surrey","12751 103 Avenue, Surrey, BC",1.0,0.0,0.0,2700.0,100
+"Vancouver","3435 Sawmill Crescent, Vancouver, BC",0.0,2709.0,0.0,0.0,101
+"Burnaby","4960 Sanders Street, Burnaby, BC",0.0,2000.0,2695.0,0.0,102
+"Vancouver","3780 Clark Drive, Vancouver, BC",0.0,0.0,3750.0,0.0,103
+"Vancouver","1086 Bute Street, Vancouver, BC",0.0,2695.0,0.0,0.0,104
+"Burnaby","7376 HALIFAX ST, Burnaby, BC",0.0,2650.0,3730.0,0.0,105
+"Vancouver","1270 Nicola Street, Vancouver, BC",2275.0,0.0,3145.0,0.0,106
+"Surrey","11022 136 Street, Surrey, BC",1650.0,2549.0,2736.41,2700.0,107
+"Burnaby","7360 HALIFAX ST, Burnaby, BC",0.0,1800.0,2495.0,0.0,108
+"Vancouver","1580 Haro Street, Vancouver, BC",0.0,2299.0,3351.39,0.0,109
+"Surrey","14921 104 Avenue, Surrey, BC",1830.0,0.0,2663.78,2700.0,110
+"Burnaby","7588 16th Street, Burnaby, BC",0.0,2000.0,2495.0,0.0,111
+"Vancouver","1348 Barclay Street, Vancouver, BC",2241.63,2600.0,3415.0,0.0,112
+"Vancouver","1529 West Pender Street, Vancouver, BC",0.0,0.0,0.0,0.0,113
+"Surrey","9450 128 Street, Surrey, BC",1699.0,2299.0,2715.0,2700.0,114
+"Burnaby","3809 Evergreen Place, Burnaby, BC",0.0,2100.0,2599.0,0.0,115
+"Vancouver","2139 Lahb Ave, Vancouver, BC",2515.0,0.0,0.0,0.0,116
+"Vancouver","1100 Harwood condos, Vancouver, BC",0.0,2549.0,0.0,0.0,117
+"Surrey","10463 150th Street, Surrey, BC",0.0,2600.0,3124.0,3300.0,118
+"Vancouver","723 Main St, Vancouver, BC",2664.0,0.0,0.0,0.0,119
+"Vancouver","23 W Cordova St., Vancouver, BC",0.0,0.0,0.0,0.0,120
+"Surrey","14831 104 Avenue, Surrey, BC",1.0,0.0,2695.0,3500.0,121
+"Burnaby","7465 13 Avenue, Burnaby, BC",0.0,2167.94,3370.0,0.0,122
+"Vancouver","1320 Bute Street, Vancouver, BC",2423.44,2869.0,3400.0,0.0,123
+"Vancouver","1045 Haro Street, Vancouver, BC",0.0,2299.0,0.0,0.0,124
+"Burnaby","4733 Hazel St, Burnaby, BC",0.0,2295.0,0.0,0.0,125
+"Vancouver","3780 Clark Drive, Vancouver, BC",0.0,2600.0,0.0,0.0,126
+"Burnaby","2181 Madison Avenue, Burnaby, BC",0.0,2227.34,2950.0,0.0,127
+"Surrey","7371 194A Street, Surrey, BC",1650.0,0.0,3730.0,2700.0,128
+"Vancouver","1270 Nicola Street, Vancouver, BC",0.0,0.0,0.0,0.0,129
+"Burnaby","6611 Southoaks Crescent, Burnaby, BC",0.0,2192.34,0.0,0.0,130
+"Vancouver","1580 Haro Street, Vancouver, BC",0.0,0.0,0.0,0.0,131
+"Burnaby","7388 Macpherson Ave, Burnaby, BC",0.0,2295.0,0.0,0.0,132
+"Vancouver","1348 Barclay Street, Vancouver, BC",0.0,2869.0,0.0,0.0,133
+"Surrey","10626 City Parkway, Surrey, BC",1830.0,2869.0,2495.0,2700.0,134
+"Vancouver","2139 Lahb Ave, Vancouver, BC",0.0,2849.0,0.0,0.0,135
+"Surrey","13228 Old Yale Road, Surrey, BC",1699.0,2849.0,2495.0,3000.0,136
+"Vancouver","723 Main St, Vancouver, BC",0.0,2546.06,0.0,0.0,137
+"Surrey","13655 FRASER HWY, Surrey, BC",0.0,2546.06,2599.0,2700.0,138
+"Vancouver","1320 Bute Street, Vancouver, BC",0.0,3005.0,0.0,0.0,139
+"Surrey","13555 96 Avenue, Surrey, BC",1.0,3005.0,3370.0,2450.0,140
+"Vancouver","939 Beatty Street, Vancouver, BC",0.0,2699.0,0.0,0.0,141
+"Surrey","15632 37 AVE, Surrey, BC",1650.0,2699.0,0.0,2700.0,142
+"Burnaby","7425 18th Avenue, Burnaby, BC",0.0,2095.0,0.0,0.0,143
+"Surrey","18883 65 Avenue, Surrey, BC",1830.0,2880.0,2950.0,2700.0,144
+"Vancouver","1649 E Broadway, Vancouver, BC",0.0,2880.0,0.0,0.0,145
+"Surrey","14488 103a Avenue, Surrey, BC",1699.0,2540.0,0.0,2700.0,146
+"Vancouver","945 Jervis Street, Vancouver, BC",0.0,2540.0,0.0,0.0,147
+"Burnaby","3836 Carrigan Court, Burnaby, BC",0.0,0.0,0.0,0.0,148
+"Surrey","9660 Regent Place, Surrey, BC",0.0,2815.44,2736.41,2700.0,149
+"Vancouver","1051 Broughton Street, Vancouver, BC",0.0,2815.44,0.0,0.0,150
+"Burnaby","8950 University High Street, Burnaby, BC",0.0,2080.0,0.0,0.0,151
+"Burnaby","4390 Grange Street, Burnaby, BC",0.0,2080.0,0.0,0.0,152
+"Surrey","10736 150 Street, Surrey, BC",1.0,2618.48,2663.78,3300.0,153
+"Vancouver","3350 Prince Albert St, Vancouver, BC",0.0,2618.48,0.0,0.0,154
+"Burnaby","4769 Hazel Street, Burnaby, BC",0.0,2299.0,0.0,0.0,155
+"Surrey","9555 128 Street, Surrey, BC",1650.0,2167.94,2715.0,3500.0,156
+"Burnaby","9303 Salish Court, Burnaby, BC",2278.0,2709.0,3415.0,4945.0,157
+"Burnaby","7191 Barnet Road, Burnaby, BC",0.0,0.0,0.0,0.0,158
+"Surrey","7155 Hall Road, Surrey, BC",1830.0,2295.0,3124.0,0.0,159
+"Burnaby","9502 Erickson Drive, Burnaby, BC",0.0,0.0,0.0,5150.0,160
+"Burnaby","5051 Lougheed Highway, Burnaby, BC",0.0,0.0,0.0,0.0,161
+"Surrey","12685 110 Avenue 11018 126A Street & 12667 110A Ave, Surrey, BC",1699.0,2227.34,2695.0,0.0,162
+"Burnaby","9500 Erickson Drive, Burnaby, BC",2750.0,2549.0,0.0,0.0,163
+"Surrey","5772 177B Street, Surrey, BC",0.0,2192.34,3730.0,0.0,164
+"Burnaby","1820 Willingdon Ave, Burnaby, BC",0.0,2000.0,0.0,0.0,165
+"Burnaby","4960 Sanders Street, Burnaby, BC",2319.0,0.0,3400.0,4840.0,166
+"Burnaby","3866 Evergreen Pl, Burnaby, BC",0.0,2650.0,0.0,0.0,167
+"Surrey","12747 102 Avenue, Surrey, BC",1.0,2295.0,2495.0,0.0,168
+"Burnaby","7376 HALIFAX ST, Burnaby, BC",1809.0,0.0,0.0,4945.0,169
+"Burnaby","3055 North Road, Burnaby, BC",0.0,1800.0,0.0,0.0,170
+"Burnaby","5130 Irving Street, Burnaby, BC",0.0,2000.0,0.0,0.0,171
+"Burnaby","6044 Wilson Avenue, Burnaby, BC",0.0,2100.0,0.0,0.0,172
+"Burnaby","",0.0,2167.94,0.0,0.0,173
+"Burnaby","",0.0,2295.0,0.0,0.0,174
+"Surrey","7121 133 B street, Surrey, BC",1650.0,2095.0,2495.0,0.0,175
+"Burnaby","7360 HALIFAX ST, Burnaby, BC",0.0,2299.0,0.0,4795.0,176
+"Burnaby","",0.0,2227.34,0.0,0.0,177
+"Surrey","3317 148 Street, Surrey, BC",1830.0,0.0,2599.0,0.0,178
+"Burnaby","7588 16th Street, Burnaby, BC",2275.0,2600.0,3839.0,5150.0,179
+"Burnaby","",0.0,2192.34,0.0,0.0,180
+"Surrey","9873 King George Blvd., Surrey, BC",1699.0,2080.0,0.0,0.0,181
+"Burnaby","3809 Evergreen Place, Burnaby, BC",0.0,0.0,4500.0,0.0,182
+"Burnaby","",0.0,2295.0,0.0,0.0,183
+"Surrey","14955 107A Avenue, Surrey, BC",0.0,2080.0,2950.0,0.0,184
+"Burnaby","",0.0,2095.0,0.0,0.0,185
+"Surrey","12751 103 Avenue, Surrey, BC",1.0,2299.0,0.0,0.0,186
+"Burnaby","7465 13 Avenue, Burnaby, BC",2241.63,0.0,3750.0,4840.0,187
+"Burnaby","",0.0,0.0,0.0,0.0,188
+"Surrey","11022 136 Street, Surrey, BC",1650.0,0.0,2736.41,0.0,189
+"Burnaby","4733 Hazel St, Burnaby, BC",2664.0,2869.0,3145.0,4796.96,190
+"Burnaby","",0.0,2080.0,0.0,0.0,191
+"Surrey","14921 104 Avenue, Surrey, BC",1830.0,0.0,2663.78,0.0,192
+"Burnaby","2181 Madison Avenue, Burnaby, BC",2278.0,2849.0,3415.0,4945.0,193
+"Surrey","9450 128 Street, Surrey, BC",1699.0,2000.0,2715.0,0.0,194
+"Burnaby","",0.0,2080.0,0.0,0.0,195
+"Burnaby","",0.0,2546.06,0.0,4795.0,196
+"Surrey","10463 150th Street, Surrey, BC",0.0,2650.0,3124.0,0.0,197
+"Burnaby","7388 Macpherson Ave, Burnaby, BC",2750.0,3005.0,0.0,5150.0,198
+"Burnaby","7425 18th Avenue, Burnaby, BC",2319.0,2699.0,3400.0,0.0,199
+"Surrey","14831 104 Avenue, Surrey, BC",1.0,2100.0,2695.0,0.0,200
+"Burnaby","3836 Carrigan Court, Burnaby, BC",1809.0,2880.0,0.0,4840.0,201
+"Burnaby","",0.0,2299.0,0.0,0.0,202
+"Surrey","7371 194A Street, Surrey, BC",1650.0,2167.94,3730.0,0.0,203
+"Burnaby","",0.0,0.0,0.0,0.0,204
+"Surrey","10626 City Parkway, Surrey, BC",1830.0,2295.0,2495.0,0.0,205
+"Burnaby","8950 University High Street, Burnaby, BC",0.0,2540.0,0.0,4796.96,206
+"Burnaby","",0.0,0.0,0.0,0.0,207
+"Surrey","13228 Old Yale Road, Surrey, BC",0.0,2227.34,2495.0,0.0,208
+"Burnaby","4390 Grange Street, Burnaby, BC",2275.0,2709.0,3839.0,4945.0,209
+"Burnaby","",0.0,2000.0,0.0,0.0,210
+"Surrey","13655 FRASER HWY, Surrey, BC",0.0,2192.34,2599.0,0.0,211
+"Burnaby","",0.0,2650.0,0.0,0.0,212
+"Burnaby","4769 Hazel Street, Burnaby, BC",0.0,2695.0,4500.0,4795.0,213
+"Surrey","13555 96 Avenue, Surrey, BC",0.0,2295.0,3370.0,0.0,214
+"Burnaby","7191 Barnet Road, Burnaby, BC",2241.63,0.0,3750.0,5150.0,215
+"Surrey","15632 37 AVE, Surrey, BC",0.0,2095.0,0.0,0.0,216
+"Surrey","18883 65 Avenue, Surrey, BC",0.0,0.0,2950.0,0.0,217
+"Burnaby","5051 Lougheed Highway, Burnaby, BC",2515.0,2549.0,3145.0,0.0,218
+"Surrey","14488 103a Avenue, Surrey, BC",0.0,2080.0,0.0,0.0,219
+"Burnaby","1820 Willingdon Ave, Burnaby, BC",2664.0,0.0,3351.39,4796.96,220
+"Burnaby","3866 Evergreen Pl, Burnaby, BC",2423.44,0.0,3415.0,4945.0,221
+"Burnaby","",0.0,1800.0,0.0,0.0,222
+"Surrey","9660 Regent Place, Surrey, BC",0.0,2080.0,2736.41,0.0,223
+"Burnaby","",2278.0,2299.0,0.0,4795.0,224
+"Burnaby","",0.0,2000.0,0.0,0.0,225
+"Surrey","10736 150 Street, Surrey, BC",0.0,2299.0,2663.78,0.0,226
+"Burnaby","",0.0,2100.0,0.0,0.0,227
+"Burnaby","",0.0,2600.0,0.0,5150.0,228
+"Surrey","9555 128 Street, Surrey, BC",0.0,0.0,2715.0,0.0,229
+"Burnaby","",0.0,2167.94,0.0,0.0,230
+"Burnaby","6044 Wilson Avenue, Burnaby, BC",2750.0,0.0,3400.0,4840.0,231
+"Surrey","7155 Hall Road, Surrey, BC",0.0,0.0,3124.0,0.0,232
+"Burnaby","",0.0,2295.0,0.0,0.0,233
+"Burnaby","9303 Salish Court, Burnaby, BC",2319.0,0.0,0.0,4796.96,234
+"Surrey","12685 110 Avenue 11018 126A Street & 12667 110A Ave, Surrey, BC",0.0,2000.0,2695.0,0.0,235
+"Burnaby","",0.0,2227.34,0.0,0.0,236
+"Burnaby","9502 Erickson Drive, Burnaby, BC",1809.0,2869.0,0.0,4945.0,237
+"Surrey","5772 177B Street, Surrey, BC",0.0,2650.0,3730.0,0.0,238
+"Burnaby","",0.0,2192.34,0.0,0.0,239
+"Burnaby","9500 Erickson Drive, Burnaby, BC",0.0,2849.0,3839.0,4795.0,240
+"Surrey","12747 102 Avenue, Surrey, BC",0.0,1800.0,2495.0,0.0,241
+"Burnaby","",0.0,2295.0,0.0,0.0,242
+"Burnaby","4960 Sanders Street, Burnaby, BC",2275.0,2546.06,4500.0,5150.0,243
+"Surrey","7121 133 B street, Surrey, BC",0.0,2000.0,2495.0,0.0,244
+"Burnaby","",0.0,2095.0,0.0,0.0,245
+"Burnaby","7376 HALIFAX ST, Burnaby, BC",0.0,3005.0,3750.0,0.0,246
+"Burnaby","",0.0,0.0,0.0,0.0,247
+"Burnaby","7360 HALIFAX ST, Burnaby, BC",2241.63,2699.0,3145.0,4840.0,248
+"Surrey","3317 148 Street, Surrey, BC",0.0,2100.0,2599.0,0.0,249
+"Burnaby","",0.0,2080.0,0.0,0.0,250
+"Burnaby","7588 16th Street, Burnaby, BC",2515.0,2880.0,3351.39,4796.96,251
+"Surrey","9873 King George Blvd., Surrey, BC",0.0,2167.94,3370.0,0.0,252
+"Burnaby","",0.0,2080.0,0.0,0.0,253
+"Surrey","14955 107A Avenue, Surrey, BC",0.0,2295.0,0.0,0.0,254
+"Burnaby","",0.0,2299.0,0.0,0.0,255
+"Surrey","12751 103 Avenue, Surrey, BC",0.0,2227.34,2950.0,0.0,256
+"Burnaby","",0.0,0.0,0.0,0.0,257
+"Surrey","11022 136 Street, Surrey, BC",0.0,2192.34,0.0,0.0,258
+"Burnaby","",0.0,2000.0,0.0,0.0,259
+"Burnaby","",0.0,2650.0,0.0,0.0,260
+"Burnaby","",0.0,1800.0,0.0,0.0,261
+"Burnaby","",0.0,2000.0,0.0,0.0,262
+"Burnaby","",0.0,2100.0,0.0,0.0,263
+"Burnaby","",0.0,2167.94,0.0,0.0,264
+"Burnaby","",0.0,2295.0,0.0,0.0,265
+"Burnaby","3809 Evergreen Place, Burnaby, BC",2664.0,2540.0,3415.0,4945.0,266
+"Burnaby","7465 13 Avenue, Burnaby, BC",2423.44,2815.44,0.0,4795.0,267
+"Burnaby","",0.0,2227.34,0.0,0.0,268
+"Burnaby","4733 Hazel St, Burnaby, BC",2278.0,2618.48,0.0,0.0,269
+"Surrey","14921 104 Avenue, Surrey, BC",0.0,2295.0,2350.0,0.0,270
+"Burnaby","",0.0,2192.34,0.0,0.0,271
+"Burnaby","2181 Madison Avenue, Burnaby, BC",0.0,2709.0,3400.0,4840.0,272
+"Surrey","9450 128 Street, Surrey, BC",0.0,2095.0,2675.0,0.0,273
+"Burnaby","",0.0,2295.0,0.0,0.0,274
+"Burnaby","6611 Southoaks Crescent, Burnaby, BC",2750.0,2695.0,0.0,4796.96,275
+"Burnaby","",0.0,2095.0,0.0,0.0,276
+"Surrey","10463 150th Street, Surrey, BC",0.0,0.0,2595.0,0.0,277
+"Burnaby","7388 Macpherson Ave, Burnaby, BC",2319.0,0.0,0.0,3641.4,278
+"Surrey","14831 104 Avenue, Surrey, BC",0.0,2080.0,2350.0,0.0,279
+"Burnaby","7425 18th Avenue, Burnaby, BC",1809.0,2549.0,3839.0,0.0,280
+"Surrey","7371 194A Street, Surrey, BC",0.0,2080.0,2100.0,0.0,281
+"Burnaby","3836 Carrigan Court, Burnaby, BC",0.0,0.0,3750.0,3641.4,282
+"Surrey","10626 City Parkway, Surrey, BC",0.0,2299.0,2350.0,0.0,283
+"Burnaby","8950 University High Street, Burnaby, BC",2275.0,0.0,3145.0,0.0,284
+"Burnaby","",0.0,0.0,0.0,0.0,285
+"Burnaby","4390 Grange Street, Burnaby, BC",0.0,2299.0,3351.39,3641.4,286
+"Surrey","13228 Old Yale Road, Surrey, BC",0.0,0.0,2350.0,0.0,287
+"Burnaby","",0.0,2080.0,0.0,0.0,288
+"Burnaby","4769 Hazel Street, Burnaby, BC",2241.63,2600.0,3415.0,0.0,289
+"Surrey","13655 FRASER HWY, Surrey, BC",0.0,0.0,2350.0,0.0,290
+"Burnaby","",0.0,2080.0,0.0,0.0,291
+"Burnaby","7191 Barnet Road, Burnaby, BC",2515.0,0.0,0.0,3641.4,292
+"Surrey","13555 96 Avenue, Surrey, BC",0.0,2000.0,2445.0,0.0,293
+"Burnaby","",0.0,2299.0,0.0,0.0,294
+"Burnaby","5051 Lougheed Highway, Burnaby, BC",2664.0,0.0,0.0,0.0,295
+"Surrey","15632 37 AVE, Surrey, BC",0.0,2650.0,2350.0,0.0,296
+"Burnaby","",0.0,0.0,0.0,0.0,297
+"Burnaby","1820 Willingdon Ave, Burnaby, BC",2423.44,2869.0,3400.0,3641.4,298
+"Surrey","18883 65 Avenue, Surrey, BC",0.0,1800.0,3000.0,0.0,299
+"Burnaby","",0.0,0.0,0.0,0.0,300
+"Burnaby","3866 Evergreen Pl, Burnaby, BC",2278.0,2849.0,0.0,0.0,301
+"Surrey","14488 103a Avenue, Surrey, BC",0.0,2000.0,2675.0,0.0,302
+"Burnaby","",0.0,2000.0,0.0,0.0,303
+"Burnaby","3055 North Road, Burnaby, BC",0.0,2546.06,3839.0,3641.4,304
+"Surrey","9660 Regent Place, Surrey, BC",0.0,2100.0,1900.0,0.0,305
+"Burnaby","",0.0,2650.0,0.0,0.0,306
+"Burnaby","5130 Irving Street, Burnaby, BC",2750.0,3005.0,4500.0,0.0,307
+"Surrey","",0.0,2167.94,0.0,0.0,308
+"Burnaby","",0.0,1800.0,0.0,0.0,309
+"Burnaby","6044 Wilson Avenue, Burnaby, BC",2319.0,2699.0,3750.0,3641.4,310
+"Surrey","",0.0,2295.0,2350.0,0.0,311
+"Burnaby","",0.0,2000.0,0.0,0.0,312
+"Burnaby","9303 Salish Court, Burnaby, BC",1809.0,2880.0,3145.0,0.0,313
+"Surrey","",0.0,2227.34,2350.0,0.0,314
+"Burnaby","",0.0,2100.0,0.0,0.0,315
+"Burnaby","9502 Erickson Drive, Burnaby, BC",0.0,2540.0,3351.39,0.0,316
+"Surrey","",0.0,2192.34,2675.0,0.0,317
+"Burnaby","",0.0,2167.94,0.0,0.0,318
+"Burnaby","9500 Erickson Drive, Burnaby, BC",2275.0,2815.44,3415.0,0.0,319
+"Burnaby","",0.0,2295.0,0.0,0.0,320
+"Surrey","",0.0,2295.0,2595.0,0.0,321
+"Burnaby","4960 Sanders Street, Burnaby, BC",2241.63,2618.48,0.0,0.0,322
+"Surrey","",0.0,2095.0,2350.0,0.0,323
+"Burnaby","",0.0,2227.34,0.0,0.0,324
+"Surrey","",0.0,0.0,2100.0,0.0,325
+"Burnaby","",0.0,2192.34,0.0,0.0,326
+"Surrey","",0.0,2080.0,2350.0,0.0,327
+"Burnaby","",0.0,2295.0,0.0,0.0,328
+"Surrey","",0.0,2080.0,2350.0,0.0,329
+"Burnaby","",0.0,2095.0,0.0,0.0,330
+"Burnaby","7376 HALIFAX ST, Burnaby, BC",2515.0,2709.0,0.0,0.0,331
+"Surrey","",0.0,2299.0,2350.0,0.0,332
+"Surrey","",0.0,0.0,2445.0,0.0,333
+"Burnaby","7360 HALIFAX ST, Burnaby, BC",2664.0,2695.0,3400.0,0.0,334
+"Surrey","",0.0,0.0,2350.0,0.0,335
+"Burnaby","7588 16th Street, Burnaby, BC",2423.44,0.0,0.0,0.0,336
+"Burnaby","",0.0,0.0,0.0,0.0,337
+"Burnaby","3809 Evergreen Place, Burnaby, BC",2278.0,2549.0,0.0,0.0,338
+"Surrey","",0.0,2000.0,3000.0,0.0,339
+"Burnaby","",0.0,2080.0,0.0,0.0,340
+"Burnaby","7465 13 Avenue, Burnaby, BC",0.0,0.0,3839.0,0.0,341
+"Surrey","",0.0,2650.0,2675.0,0.0,342
+"Vancouver","939 Beatty Street, Vancouver, BC",2278.0,2849.0,0.0,0.0,343
+"Burnaby","",0.0,2080.0,0.0,0.0,344
+"Burnaby","4733 Hazel St, Burnaby, BC",2750.0,0.0,4500.0,0.0,345
+"Vancouver","1649 E Broadway, Vancouver, BC",0.0,2546.06,3839.0,0.0,346
+"Burnaby","",0.0,2299.0,0.0,0.0,347
+"Burnaby","2181 Madison Avenue, Burnaby, BC",2319.0,2299.0,3750.0,0.0,348
+"Vancouver","945 Jervis Street, Vancouver, BC",2750.0,3005.0,4500.0,0.0,349
+"Burnaby","6611 Southoaks Crescent, Burnaby, BC",1809.0,2600.0,3145.0,0.0,350
+"Burnaby","",0.0,0.0,0.0,0.0,351
+"Vancouver","1051 Broughton Street, Vancouver, BC",2319.0,2699.0,3750.0,0.0,352
+"Burnaby","7388 Macpherson Ave, Burnaby, BC",0.0,0.0,3351.39,0.0,353
+"Burnaby","",0.0,0.0,0.0,0.0,354
+"Vancouver","3350 Prince Albert St, Vancouver, BC",1809.0,2880.0,3145.0,0.0,355
+"Burnaby","7425 18th Avenue, Burnaby, BC",2275.0,0.0,3415.0,0.0,356
+"Burnaby","",0.0,2000.0,0.0,0.0,357
+"Vancouver","1770 Pendrell Street, Vancouver, BC",0.0,2540.0,3351.39,0.0,358
+"Burnaby","3836 Carrigan Court, Burnaby, BC",0.0,2869.0,0.0,0.0,359
+"Vancouver","825 Nicola Street, Vancouver, BC",2275.0,2815.44,3415.0,0.0,360
+"Burnaby","8950 University High Street, Burnaby, BC",2241.63,2849.0,3400.0,0.0,361
+"Burnaby","",0.0,2650.0,0.0,0.0,362
+"Vancouver","1477 Continental Street, Vancouver, BC",2241.63,2618.48,0.0,0.0,363
+"Burnaby","4390 Grange Street, Burnaby, BC",2515.0,2546.06,0.0,0.0,364
+"Burnaby","",0.0,1800.0,0.0,0.0,365
+"Vancouver","1661 Davie Street, Vancouver, BC",2515.0,2709.0,0.0,0.0,366
+"Burnaby","4769 Hazel Street, Burnaby, BC",2664.0,2699.0,0.0,0.0,367
+"Burnaby","",0.0,2000.0,0.0,0.0,368
+"Vancouver","930 Seymour Street, Vancouver, BC",2664.0,2695.0,3400.0,0.0,369
+"Burnaby","7191 Barnet Road, Burnaby, BC",2423.44,2880.0,3839.0,0.0,370
+"Burnaby","",0.0,2100.0,0.0,0.0,371
+"Burnaby","5051 Lougheed Highway, Burnaby, BC",2278.0,2540.0,4500.0,0.0,372
+"Surrey","10736 150 Street, Surrey, BC",2278.0,2709.0,3415.0,4945.0,373
+"Vancouver","3583 Kingsway, Vancouver, BC",2423.44,0.0,0.0,0.0,374
+"Burnaby","1820 Willingdon Ave, Burnaby, BC",0.0,2815.44,3750.0,0.0,375
+"Surrey","9555 128 Street, Surrey, BC",0.0,0.0,0.0,5150.0,376
+"Vancouver","8735 Selkirk St, Vancouver, BC",2278.0,2549.0,0.0,0.0,377
+"Burnaby","3866 Evergreen Pl, Burnaby, BC",2750.0,2618.48,3145.0,0.0,378
+"Surrey","",0.0,1800.0,1900.0,0.0,379
+"Surrey","7155 Hall Road, Surrey, BC",2750.0,2549.0,0.0,0.0,380
+"Vancouver","3435 Sawmill Crescent, Vancouver, BC",0.0,0.0,3839.0,0.0,381
+"Surrey","12685 110 Avenue 11018 126A Street & 12667 110A Ave, Surrey, BC",2319.0,0.0,3400.0,4840.0,382
+"Burnaby","3055 North Road, Burnaby, BC",2319.0,2709.0,3351.39,0.0,383
+"Surrey","5772 177B Street, Surrey, BC",1809.0,0.0,0.0,4945.0,384
+"Vancouver","1086 Bute Street, Vancouver, BC",2750.0,0.0,4500.0,0.0,385
+"Surrey","12747 102 Avenue, Surrey, BC",0.0,2299.0,0.0,4795.0,386
+"Vancouver","1529 West Pender Street, Vancouver, BC",2319.0,2299.0,3750.0,0.0,387
+"Surrey","7121 133 B street, Surrey, BC",2275.0,2600.0,3839.0,5150.0,388
+"Vancouver","1100 Harwood condos, Vancouver, BC",1809.0,2600.0,3145.0,0.0,389
+"Burnaby","5130 Irving Street, Burnaby, BC",1809.0,2695.0,2736.41,0.0,390
+"Surrey","3317 148 Street, Surrey, BC",0.0,0.0,4500.0,0.0,391
+"Vancouver","23 W Cordova St., Vancouver, BC",0.0,0.0,3351.39,0.0,392
+"Burnaby","6044 Wilson Avenue, Burnaby, BC",2275.0,0.0,2663.78,0.0,393
+"Vancouver","1045 Haro Street, Vancouver, BC",2275.0,0.0,3415.0,0.0,394
+"Burnaby","9303 Salish Court, Burnaby, BC",0.0,2549.0,2715.0,0.0,395
+"Vancouver","3780 Clark Drive, Vancouver, BC",0.0,2869.0,0.0,0.0,396
+"Surrey","",0.0,2000.0,0.0,0.0,397
+"Burnaby","9502 Erickson Drive, Burnaby, BC",2241.63,0.0,3124.0,0.0,398
+"Vancouver","1270 Nicola Street, Vancouver, BC",2241.63,2849.0,3400.0,0.0,399
+"Surrey","",0.0,2100.0,2350.0,0.0,400
+"Surrey","9873 King George Blvd., Surrey, BC",2241.63,0.0,3750.0,4840.0,401
+"Burnaby","9500 Erickson Drive, Burnaby, BC",2515.0,0.0,2695.0,0.0,402
+"Vancouver","1580 Haro Street, Vancouver, BC",2515.0,2546.06,0.0,0.0,403
+"Surrey","",0.0,2167.94,2350.0,0.0,404
+"Surrey","14955 107A Avenue, Surrey, BC",2664.0,2869.0,3145.0,4796.96,405
+"Burnaby","4960 Sanders Street, Burnaby, BC",2664.0,2299.0,3730.0,0.0,406
+"Vancouver","1348 Barclay Street, Vancouver, BC",2664.0,2699.0,0.0,0.0,407
+"Surrey","",0.0,2295.0,2675.0,0.0,408
+"Surrey","12751 103 Avenue, Surrey, BC",2278.0,2849.0,3415.0,4945.0,409
+"Vancouver","2139 Lahb Ave, Vancouver, BC",2423.44,2880.0,3839.0,0.0,410
+"Surrey","",0.0,2227.34,2595.0,0.0,411
+"Surrey","11022 136 Street, Surrey, BC",0.0,2546.06,0.0,4795.0,412
+"Surrey","",0.0,2192.34,2350.0,0.0,413
+"Surrey","14921 104 Avenue, Surrey, BC",2750.0,3005.0,0.0,5150.0,414
+"Surrey","",0.0,2295.0,2100.0,0.0,415
+"Surrey","9450 128 Street, Surrey, BC",2319.0,2699.0,3400.0,0.0,416
+"Surrey","",0.0,2095.0,2350.0,0.0,417
+"Burnaby","7376 HALIFAX ST, Burnaby, BC",2423.44,2600.0,2495.0,0.0,418
+"Surrey","10463 150th Street, Surrey, BC",1809.0,2880.0,0.0,4840.0,419
+"Surrey","",0.0,0.0,2350.0,0.0,420
+"Surrey","14831 104 Avenue, Surrey, BC",0.0,2540.0,0.0,4796.96,421
+"Surrey","",0.0,2080.0,2350.0,0.0,422
+"Burnaby","7360 HALIFAX ST, Burnaby, BC",2325.0,0.0,2599.0,0.0,423
+"Surrey","7371 194A Street, Surrey, BC",2275.0,2709.0,3839.0,4945.0,424
+"Surrey","",0.0,2080.0,2445.0,0.0,425
+"Burnaby","7588 16th Street, Burnaby, BC",2175.0,2869.0,3370.0,0.0,426
+"Surrey","10626 City Parkway, Surrey, BC",0.0,2695.0,4500.0,4795.0,427
+"Surrey","",0.0,2299.0,2350.0,0.0,428
+"Burnaby","3809 Evergreen Place, Burnaby, BC",1899.0,2849.0,0.0,0.0,429
+"Surrey","13228 Old Yale Road, Surrey, BC",2241.63,0.0,3750.0,5150.0,430
+"Burnaby","7465 13 Avenue, Burnaby, BC",2160.0,2546.06,2950.0,0.0,431
+"Surrey","",0.0,0.0,3000.0,0.0,432
+"Surrey","13655 FRASER HWY, Surrey, BC",2515.0,2549.0,3145.0,0.0,433
+"Vancouver","723 Main St, Vancouver, BC",2278.0,2540.0,4500.0,0.0,434
+"Burnaby","4733 Hazel St, Burnaby, BC",2325.0,3005.0,0.0,0.0,435
+"Surrey","13555 96 Avenue, Surrey, BC",2664.0,0.0,3351.39,4796.96,436
+"Vancouver","1320 Bute Street, Vancouver, BC",0.0,2815.44,3750.0,0.0,437
+"Burnaby","2181 Madison Avenue, Burnaby, BC",2175.0,2699.0,2736.41,0.0,438
+"Surrey","",0.0,2000.0,2675.0,0.0,439
+"Surrey","15632 37 AVE, Surrey, BC",2423.44,0.0,3415.0,4945.0,440
+"Burnaby","6611 Southoaks Crescent, Burnaby, BC",1899.0,2880.0,2663.78,0.0,441
+"Vancouver","939 Beatty Street, Vancouver, BC",2750.0,2618.48,3145.0,0.0,442
+"Surrey","",0.0,2650.0,1900.0,0.0,443
+"Surrey","18883 65 Avenue, Surrey, BC",2278.0,2299.0,0.0,4795.0,444
+"Burnaby","7388 Macpherson Ave, Burnaby, BC",2160.0,2540.0,2715.0,0.0,445
+"Surrey","",0.0,1800.0,0.0,0.0,446
+"Surrey","14488 103a Avenue, Surrey, BC",0.0,2600.0,0.0,5150.0,447
+"Burnaby","7425 18th Avenue, Burnaby, BC",2325.0,2815.44,3124.0,0.0,448
+"Surrey","",0.0,2000.0,2350.0,0.0,449
+"Surrey","9660 Regent Place, Surrey, BC",2750.0,0.0,3400.0,4840.0,450
+"Burnaby","3836 Carrigan Court, Burnaby, BC",2175.0,2618.48,2695.0,0.0,451
+"Surrey","",0.0,2100.0,2350.0,0.0,452
+"Surrey","10736 150 Street, Surrey, BC",2319.0,0.0,0.0,4796.96,453
+"Burnaby","8950 University High Street, Burnaby, BC",1899.0,2709.0,3730.0,0.0,454
+"Vancouver","1649 E Broadway, Vancouver, BC",2319.0,2709.0,3351.39,0.0,455
+"Surrey","",0.0,2167.94,2675.0,0.0,456
+"Surrey","9555 128 Street, Surrey, BC",1809.0,2869.0,0.0,4945.0,457
+"Vancouver","945 Jervis Street, Vancouver, BC",1809.0,2695.0,0.0,0.0,458
+"Burnaby","4390 Grange Street, Burnaby, BC",2160.0,2695.0,2495.0,0.0,459
+"Surrey","",0.0,2295.0,2595.0,0.0,460
+"Vancouver","1051 Broughton Street, Vancouver, BC",2275.0,0.0,0.0,0.0,461
+"Surrey","",0.0,2227.34,2350.0,0.0,462
+"Surrey","",0.0,2192.34,2100.0,0.0,463
+"Vancouver","3350 Prince Albert St, Vancouver, BC",0.0,2549.0,0.0,0.0,464
+"Surrey","",0.0,2295.0,2350.0,0.0,465
+"Vancouver","1770 Pendrell Street, Vancouver, BC",2241.63,0.0,0.0,0.0,466
+"Surrey","7155 Hall Road, Surrey, BC",0.0,2849.0,3839.0,4795.0,467
+"Surrey","",0.0,2095.0,2350.0,0.0,468
+"Vancouver","825 Nicola Street, Vancouver, BC",2515.0,0.0,0.0,0.0,469
+"Surrey","12685 110 Avenue 11018 126A Street & 12667 110A Ave, Surrey, BC",2275.0,2546.06,4500.0,5150.0,470
+"Surrey","",0.0,0.0,2350.0,0.0,471
+"Burnaby","4769 Hazel Street, Burnaby, BC",2325.0,0.0,2495.0,0.0,472
+"Vancouver","1477 Continental Street, Vancouver, BC",2664.0,2299.0,0.0,0.0,473
+"Surrey","5772 177B Street, Surrey, BC",0.0,3005.0,3750.0,0.0,474
+"Burnaby","7191 Barnet Road, Burnaby, BC",2175.0,2549.0,2599.0,0.0,475
+"Vancouver","1661 Davie Street, Vancouver, BC",2423.44,2600.0,0.0,0.0,476
+"Surrey","12747 102 Avenue, Surrey, BC",2241.63,2699.0,3145.0,4840.0,477
+"Burnaby","5051 Lougheed Highway, Burnaby, BC",1899.0,0.0,3370.0,0.0,478
+"Vancouver","930 Seymour Street, Vancouver, BC",0.0,0.0,0.0,0.0,479
+"Surrey","7121 133 B street, Surrey, BC",2515.0,2880.0,3351.39,4796.96,480
+"Burnaby","1820 Willingdon Ave, Burnaby, BC",2160.0,0.0,0.0,0.0,481
+"Vancouver","3583 Kingsway, Vancouver, BC",0.0,2869.0,0.0,0.0,482
+"Surrey","3317 148 Street, Surrey, BC",2664.0,2540.0,3415.0,4945.0,483
+"Surrey","",0.0,2080.0,2445.0,0.0,484
+"Vancouver","8735 Selkirk St, Vancouver, BC",0.0,2849.0,0.0,0.0,485
+"Surrey","9873 King George Blvd., Surrey, BC",2423.44,2815.44,0.0,4795.0,486
+"Surrey","",0.0,2080.0,2350.0,0.0,487
+"Vancouver","3435 Sawmill Crescent, Vancouver, BC",0.0,2546.06,0.0,0.0,488
+"Surrey","14955 107A Avenue, Surrey, BC",2278.0,2618.48,0.0,0.0,489
+"Vancouver","1086 Bute Street, Vancouver, BC",0.0,3005.0,0.0,0.0,490
+"Surrey","12751 103 Avenue, Surrey, BC",0.0,2709.0,3400.0,4840.0,491
+"Surrey","11022 136 Street, Surrey, BC",2750.0,2695.0,0.0,4796.96,492
+"Burnaby","3866 Evergreen Pl, Burnaby, BC",2325.0,2299.0,2950.0,0.0,493
+"Surrey","14921 104 Avenue, Surrey, BC",2319.0,0.0,0.0,3641.4,494
+"Burnaby","3055 North Road, Burnaby, BC",2175.0,2600.0,0.0,0.0,495
+"Surrey","9450 128 Street, Surrey, BC",1809.0,2549.0,3839.0,0.0,496
+"Surrey","",0.0,2299.0,3000.0,0.0,497
+"Burnaby","5130 Irving Street, Burnaby, BC",1899.0,0.0,2736.41,0.0,498
+"Surrey","10463 150th Street, Surrey, BC",0.0,0.0,3750.0,3641.4,499
+"Surrey","",0.0,0.0,2675.0,0.0,500
+"Burnaby","6044 Wilson Avenue, Burnaby, BC",2160.0,0.0,2663.78,0.0,501
+"Surrey","14831 104 Avenue, Surrey, BC",2275.0,0.0,3145.0,0.0,502
+"Surrey","",0.0,0.0,1900.0,0.0,503
+"Burnaby","9303 Salish Court, Burnaby, BC",2325.0,2869.0,2715.0,0.0,504
+"Surrey","7371 194A Street, Surrey, BC",0.0,2299.0,3351.39,3641.4,505
+"Surrey","",0.0,2000.0,0.0,0.0,506
+"Burnaby","9502 Erickson Drive, Burnaby, BC",2175.0,2546.06,3124.0,0.0,507
+"Surrey","",0.0,2650.0,2350.0,0.0,508
+"Burnaby","9500 Erickson Drive, Burnaby, BC",1899.0,3005.0,2695.0,0.0,509
+"Surrey","",0.0,1800.0,2350.0,0.0,510
+"Burnaby","4960 Sanders Street, Burnaby, BC",2160.0,2699.0,3730.0,0.0,511
+"Surrey","",0.0,2000.0,2675.0,0.0,512
+"Burnaby","7376 HALIFAX ST, Burnaby, BC",2325.0,2880.0,2495.0,0.0,513
+"Surrey","",0.0,2100.0,2595.0,0.0,514
+"Burnaby","7360 HALIFAX ST, Burnaby, BC",2175.0,2540.0,2495.0,0.0,515
+"Surrey","",0.0,2167.94,2350.0,0.0,516
+"Burnaby","7588 16th Street, Burnaby, BC",1899.0,2815.44,2599.0,0.0,517
+"Surrey","10626 City Parkway, Surrey, BC",2241.63,2600.0,3415.0,0.0,518
+"Surrey","",0.0,2295.0,2100.0,0.0,519
+"Burnaby","3809 Evergreen Place, Burnaby, BC",2160.0,2618.48,3370.0,0.0,520
+"Surrey","13228 Old Yale Road, Surrey, BC",2515.0,0.0,0.0,3641.4,521
+"Surrey","",0.0,2227.34,2350.0,0.0,522
+"Burnaby","7465 13 Avenue, Burnaby, BC",0.0,2709.0,0.0,0.0,523
+"Surrey","",0.0,2192.34,2350.0,0.0,524
+"Surrey","13655 FRASER HWY, Surrey, BC",2664.0,0.0,0.0,0.0,525
+"Burnaby","4733 Hazel St, Burnaby, BC",0.0,2695.0,2950.0,0.0,526
+"Surrey","",0.0,2295.0,2350.0,0.0,527
+"Surrey","13555 96 Avenue, Surrey, BC",2423.44,2869.0,3400.0,3641.4,528
+"Surrey","",0.0,2095.0,2445.0,0.0,529
+"Burnaby","2181 Madison Avenue, Burnaby, BC",0.0,0.0,0.0,0.0,530
+"Surrey","15632 37 AVE, Surrey, BC",2278.0,2849.0,0.0,0.0,531
+"Surrey","",0.0,0.0,2350.0,0.0,532
+"Surrey","18883 65 Avenue, Surrey, BC",0.0,2546.06,3839.0,3641.4,533
+"Surrey","",0.0,2080.0,3000.0,0.0,534
+"Surrey","14488 103a Avenue, Surrey, BC",2750.0,3005.0,4500.0,0.0,535
+"Surrey","",0.0,2080.0,2675.0,0.0,536
+"Surrey","",0.0,2299.0,1900.0,0.0,537
+"Surrey","9660 Regent Place, Surrey, BC",2319.0,2699.0,3750.0,3641.4,538
+"Surrey","",0.0,0.0,0.0,0.0,539
+"Burnaby","6611 Southoaks Crescent, Burnaby, BC",0.0,2549.0,2736.41,0.0,540
+"Surrey","",0.0,0.0,2350.0,0.0,541
+"Burnaby","7388 Macpherson Ave, Burnaby, BC",0.0,0.0,2663.78,0.0,542
+"Surrey","",0.0,2000.0,2350.0,0.0,543
+"Burnaby","7425 18th Avenue, Burnaby, BC",0.0,2299.0,2715.0,0.0,544
+"Surrey","",0.0,2650.0,2675.0,0.0,545
+"Surrey","10736 150 Street, Surrey, BC",1809.0,2880.0,3145.0,0.0,546
+"Surrey","9555 128 Street, Surrey, BC",0.0,2540.0,3351.39,2700.0,547
+"Surrey","7155 Hall Road, Surrey, BC",2275.0,2815.44,3415.0,3000.0,548
+"Burnaby","3836 Carrigan Court, Burnaby, BC",0.0,2600.0,3124.0,0.0,549
+"Surrey","12685 110 Avenue 11018 126A Street & 12667 110A Ave, Surrey, BC",2241.63,2618.48,0.0,2700.0,550
+"Burnaby","8950 University High Street, Burnaby, BC",0.0,0.0,2695.0,0.0,551
+"Surrey","5772 177B Street, Surrey, BC",2515.0,2709.0,0.0,2450.0,552
+"Surrey","",0.0,1800.0,2595.0,0.0,553
+"Burnaby","4390 Grange Street, Burnaby, BC",0.0,0.0,3730.0,0.0,554
+"Surrey","",0.0,2000.0,2350.0,0.0,555
+"Surrey","12747 102 Avenue, Surrey, BC",2664.0,2695.0,3400.0,2700.0,556
+"Surrey","",0.0,2100.0,2100.0,0.0,557
+"Burnaby","4769 Hazel Street, Burnaby, BC",0.0,2869.0,2495.0,0.0,558
+"Surrey","7121 133 B street, Surrey, BC",2423.44,0.0,0.0,2700.0,559
+"Surrey","",0.0,1799.0,2350.0,0.0,560
+"Burnaby","7191 Barnet Road, Burnaby, BC",0.0,2849.0,2495.0,0.0,561
+"Surrey","3317 148 Street, Surrey, BC",2278.0,2549.0,0.0,2700.0,562
+"Surrey","",0.0,1699.0,2350.0,0.0,563
+"Surrey","",0.0,1950.0,0.0,0.0,564
+"Surrey","9873 King George Blvd., Surrey, BC",0.0,0.0,3839.0,2700.0,565
+"Surrey","",0.0,1787.5,0.0,0.0,566
+"Surrey","14955 107A Avenue, Surrey, BC",2750.0,0.0,4500.0,3300.0,567
+"Burnaby","5051 Lougheed Highway, Burnaby, BC",0.0,2546.06,2599.0,0.0,568
+"Surrey","",0.0,1899.0,2350.0,0.0,569
+"Surrey","12751 103 Avenue, Surrey, BC",2319.0,2299.0,3750.0,3500.0,570
+"Burnaby","1820 Willingdon Ave, Burnaby, BC",0.0,3005.0,3370.0,0.0,571
+"Surrey","",0.0,1799.0,0.0,0.0,572
+"Burnaby","3866 Evergreen Pl, Burnaby, BC",0.0,2699.0,0.0,0.0,573
+"Surrey","11022 136 Street, Surrey, BC",1809.0,2600.0,3145.0,2700.0,574
+"Surrey","",0.0,1699.0,0.0,0.0,575
+"Burnaby","3055 North Road, Burnaby, BC",0.0,2880.0,2950.0,0.0,576
+"Surrey","14921 104 Avenue, Surrey, BC",0.0,0.0,3351.39,2700.0,577
+"Surrey","",0.0,1899.0,0.0,0.0,578
+"Burnaby","5130 Irving Street, Burnaby, BC",0.0,2540.0,0.0,0.0,579
+"Surrey","9450 128 Street, Surrey, BC",2275.0,0.0,3415.0,3000.0,580
+"Surrey","",0.0,1900.0,0.0,0.0,581
+"Burnaby","6044 Wilson Avenue, Burnaby, BC",0.0,2815.44,2736.41,0.0,582
+"Surrey","10463 150th Street, Surrey, BC",0.0,2869.0,0.0,2700.0,583
+"Burnaby","9303 Salish Court, Burnaby, BC",0.0,2618.48,2663.78,0.0,584
+"Surrey","14831 104 Avenue, Surrey, BC",2241.63,2849.0,3400.0,2450.0,585
+"Burnaby","9502 Erickson Drive, Burnaby, BC",0.0,2167.94,2715.0,0.0,586
+"Surrey","",0.0,1900.0,2445.0,0.0,587
+"Surrey","7371 194A Street, Surrey, BC",2515.0,2546.06,0.0,2700.0,588
+"Burnaby","9500 Erickson Drive, Burnaby, BC",0.0,2295.0,3124.0,0.0,589
+"Surrey","",0.0,0.0,2350.0,0.0,590
+"Surrey","10626 City Parkway, Surrey, BC",2664.0,2699.0,0.0,2700.0,591
+"Surrey","",0.0,0.0,3000.0,0.0,592
+"Burnaby","4960 Sanders Street, Burnaby, BC",0.0,2227.34,2695.0,0.0,593
+"Surrey","",0.0,0.0,0.0,0.0,594
+"Surrey","13228 Old Yale Road, Surrey, BC",2423.44,2880.0,3839.0,2700.0,595
+"Surrey","",0.0,1787.5,2675.0,0.0,596
+"Burnaby","7376 HALIFAX ST, Burnaby, BC",0.0,2192.34,3730.0,0.0,597
+"Surrey","",0.0,1800.0,1900.0,0.0,598
+"Surrey","",0.0,0.0,0.0,0.0,599
+"Surrey","13655 FRASER HWY, Surrey, BC",2278.0,2540.0,4500.0,2700.0,600
+"Surrey","",0.0,1833.0,0.0,0.0,601
+"Surrey","",0.0,1787.5,0.0,0.0,602
+"Surrey","",0.0,1800.0,0.0,0.0,603
+"Surrey","",0.0,1833.0,0.0,0.0,604
+"Surrey","",0.0,1833.0,0.0,0.0,605
+"Surrey","13555 96 Avenue, Surrey, BC",0.0,2815.44,3750.0,3300.0,606
+"Surrey","",0.0,1799.0,0.0,0.0,607
+"Surrey","15632 37 AVE, Surrey, BC",2750.0,2618.48,3145.0,3500.0,608
+"Surrey","",0.0,1800.0,0.0,0.0,609
+"Surrey","18883 65 Avenue, Surrey, BC",2319.0,2709.0,3351.39,2700.0,610
+"Surrey","",0.0,2050.0,0.0,0.0,611
+"Surrey","",0.0,1999.0,0.0,0.0,612
+"Surrey","",0.0,1950.0,0.0,0.0,613
+"Richmond","10951 Mortfield Road, Richmond, BC",2278.0,2709.0,3415.0,4945.0,614
+"Surrey","14488 103a Avenue, Surrey, BC",1809.0,2695.0,2736.41,2700.0,615
+"Richmond","8351 Bennett Road, Richmond, BC",0.0,0.0,0.0,5150.0,616
+"Surrey","9660 Regent Place, Surrey, BC",2275.0,0.0,2663.78,3000.0,617
+"Richmond","",2750.0,2549.0,0.0,0.0,618
+"Surrey","10736 150 Street, Surrey, BC",0.0,2549.0,2715.0,2700.0,619
+"Richmond","Lansdowne Village, Richmond, BC",2319.0,0.0,3400.0,4840.0,620
+"Surrey","9555 128 Street, Surrey, BC",2241.63,0.0,3124.0,2450.0,621
+"Richmond","Goldstream Place, Richmond, BC",1809.0,0.0,0.0,4945.0,622
+"Surrey","7155 Hall Road, Surrey, BC",2515.0,0.0,2695.0,2700.0,623
+"Richmond","6633 Buswell St, Richmond, BC",0.0,2299.0,0.0,4795.0,624
+"Surrey","12685 110 Avenue 11018 126A Street & 12667 110A Ave, Surrey, BC",2664.0,2299.0,3730.0,2700.0,625
+"Richmond","Lansdowne Road, Richmond, BC",2275.0,2600.0,3839.0,5150.0,626
+"Surrey","5772 177B Street, Surrey, BC",2423.44,2600.0,2495.0,2700.0,627
+"Richmond","Cooney Road, Richmond, BC",0.0,0.0,4500.0,0.0,628
+"Surrey","12747 102 Avenue, Surrey, BC",2325.0,0.0,2599.0,2700.0,629
+"Richmond","6888 Cooney Road, Richmond, BC",2241.63,0.0,3750.0,4840.0,630
+"Surrey","7121 133 B street, Surrey, BC",2175.0,2869.0,3370.0,3300.0,631
+"Richmond","Cook Road, Richmond, BC",2664.0,2869.0,3145.0,4796.96,632
+"Surrey","3317 148 Street, Surrey, BC",1899.0,2849.0,0.0,3500.0,633
+"Richmond","8640 Citation Drive, Richmond, BC",2278.0,2849.0,3415.0,4945.0,634
+"Surrey","9873 King George Blvd., Surrey, BC",2160.0,2546.06,2950.0,2700.0,635
+"Richmond","8246 Lansdowne Road, Richmond, BC",0.0,2546.06,0.0,4795.0,636
+"Surrey","14955 107A Avenue, Surrey, BC",2325.0,3005.0,0.0,2700.0,637
+"Richmond","11675 Seventh Avenue, Richmond, BC",2750.0,3005.0,0.0,5150.0,638
+"Surrey","12751 103 Avenue, Surrey, BC",2175.0,2699.0,2736.41,3000.0,639
+"Richmond","14088 Riverport Way, Richmond, BC",2319.0,2699.0,3400.0,0.0,640
+"Surrey","11022 136 Street, Surrey, BC",1899.0,2880.0,2663.78,2700.0,641
+"Richmond","8040 Blundell Rd, Richmond, BC",1809.0,2880.0,0.0,4840.0,642
+"Surrey","14921 104 Avenue, Surrey, BC",2160.0,2540.0,2715.0,2450.0,643
+"Richmond","",0.0,2540.0,0.0,4796.96,644
+"Surrey","9450 128 Street, Surrey, BC",2325.0,2815.44,3124.0,2700.0,645
+"Richmond","Moffatt, Richmond, BC",2275.0,2709.0,3839.0,4945.0,646
+"Surrey","10463 150th Street, Surrey, BC",2175.0,2618.48,2695.0,2700.0,647
+"Richmond","Sills Avenue, Richmond, BC",0.0,2695.0,4500.0,4795.0,648
+"Surrey","14831 104 Avenue, Surrey, BC",1899.0,2709.0,3730.0,2700.0,649
+"Richmond","8200 Park Road, Richmond, BC",2241.63,0.0,3750.0,5150.0,650
+"Surrey","7371 194A Street, Surrey, BC",2160.0,2695.0,2495.0,2700.0,651
+"Richmond","6733 Buswell Street, Richmond, BC",2515.0,2549.0,3145.0,0.0,652
+"Surrey","10626 City Parkway, Surrey, BC",2325.0,0.0,2495.0,3300.0,653
+"Richmond","Abercrombie Drive, Richmond, BC",2664.0,0.0,3351.39,4796.96,654
+"Richmond","Minoru Boulevard, Richmond, BC",2423.44,0.0,3415.0,4945.0,655
+"Richmond","Ackroyd Road, Richmond, BC",2278.0,2299.0,0.0,4795.0,656
+"Richmond","100, 10100 No. 3 Road, Richmond, BC",0.0,2600.0,0.0,5150.0,657
+"Richmond","Westminster Highway, Richmond, BC",2750.0,0.0,3400.0,4840.0,658
+"Richmond","10951 Mortfield Road, Richmond, BC",2319.0,0.0,0.0,4796.96,659
+"Richmond","8351 Bennett Road, Richmond, BC",1809.0,2869.0,0.0,4945.0,660
+"Richmond","Cooney Road, Richmond, BC",0.0,2100.0,2599.0,1200.0,661
+"Richmond","",0.0,2849.0,3839.0,4795.0,662
+"Richmond","6888 Cooney Road, Richmond, BC",0.0,2167.94,3370.0,1000.0,663
+"Richmond","Lansdowne Village, Richmond, BC",2275.0,2546.06,4500.0,5150.0,664
+"Richmond","Cook Road, Richmond, BC",0.0,2295.0,0.0,875.0,665
+"Richmond","Goldstream Place, Richmond, BC",0.0,3005.0,3750.0,0.0,666
+"Richmond","6633 Buswell St, Richmond, BC",2241.63,2699.0,3145.0,4840.0,667
+"Richmond","Lansdowne Road, Richmond, BC",2515.0,2880.0,3351.39,4796.96,668
+"Richmond","Cooney Road, Richmond, BC",2664.0,2540.0,3415.0,4945.0,669
+"Richmond","8640 Citation Drive, Richmond, BC",0.0,2227.34,2950.0,4200.0,670
+"Richmond","6888 Cooney Road, Richmond, BC",2423.44,2815.44,0.0,4795.0,671
+"Richmond","8246 Lansdowne Road, Richmond, BC",0.0,2192.34,0.0,999.0,672
+"Richmond","Cook Road, Richmond, BC",2278.0,2618.48,0.0,0.0,673
+"Richmond","11675 Seventh Avenue, Richmond, BC",0.0,2295.0,2350.0,999.0,674
+"Richmond","8640 Citation Drive, Richmond, BC",0.0,2709.0,3400.0,4840.0,675
+"Richmond","14088 Riverport Way, Richmond, BC",0.0,2095.0,2675.0,1200.0,676
+"Richmond","8246 Lansdowne Road, Richmond, BC",2750.0,2695.0,0.0,4796.96,677
+"Richmond","8040 Blundell Rd, Richmond, BC",0.0,0.0,2595.0,1000.0,678
+"Richmond","11675 Seventh Avenue, Richmond, BC",2319.0,0.0,0.0,3641.4,679
+"Richmond","",0.0,2080.0,2350.0,875.0,680
+"Richmond","14088 Riverport Way, Richmond, BC",1809.0,2549.0,3839.0,0.0,681
+"Richmond","Moffatt, Richmond, BC",0.0,2080.0,2100.0,4200.0,682
+"Richmond","Sills Avenue, Richmond, BC",0.0,2299.0,2350.0,999.0,683
+"Richmond","8200 Park Road, Richmond, BC",0.0,0.0,2350.0,999.0,684
+"Richmond","6733 Buswell Street, Richmond, BC",0.0,0.0,2350.0,0.0,685
+"Richmond","8040 Blundell Rd, Richmond, BC",0.0,0.0,3750.0,3641.4,686
+"Richmond","Abercrombie Drive, Richmond, BC",0.0,2000.0,2445.0,0.0,687
+"Richmond","Minoru Boulevard, Richmond, BC",0.0,2650.0,2350.0,0.0,688
+"Richmond","",2275.0,0.0,3145.0,0.0,689
+"Richmond","Ackroyd Road, Richmond, BC",0.0,1800.0,3000.0,0.0,690
+"Richmond","Moffatt, Richmond, BC",0.0,2299.0,3351.39,3641.4,691
+"Richmond","100, 10100 No. 3 Road, Richmond, BC",0.0,2000.0,2675.0,0.0,692
+"Richmond","Sills Avenue, Richmond, BC",2241.63,2600.0,3415.0,0.0,693
+"Richmond","Westminster Highway, Richmond, BC",0.0,2100.0,1900.0,0.0,694
+"Richmond","8200 Park Road, Richmond, BC",2515.0,0.0,0.0,3641.4,695
+"Richmond","",0.0,2167.94,0.0,0.0,696
+"Richmond","6733 Buswell Street, Richmond, BC",2664.0,0.0,0.0,0.0,697
+"Richmond","",0.0,2295.0,2350.0,0.0,698
+"Richmond","Abercrombie Drive, Richmond, BC",2423.44,2869.0,3400.0,3641.4,699
+"Richmond","",0.0,2227.34,2350.0,0.0,700
+"Richmond","Minoru Boulevard, Richmond, BC",2278.0,2849.0,0.0,0.0,701
+"Richmond","",0.0,2192.34,2675.0,0.0,702
+"Richmond","Ackroyd Road, Richmond, BC",0.0,2546.06,3839.0,3641.4,703
+"Richmond","",0.0,2295.0,2595.0,0.0,704
+"Richmond","100, 10100 No. 3 Road, Richmond, BC",2750.0,3005.0,4500.0,0.0,705
+"Richmond","",0.0,2095.0,2350.0,0.0,706
+"Richmond","Westminster Highway, Richmond, BC",2319.0,2699.0,3750.0,3641.4,707
+"Richmond","",0.0,0.0,2100.0,0.0,708
+"Richmond","10951 Mortfield Road, Richmond, BC",1809.0,2880.0,3145.0,0.0,709
+"Richmond","",0.0,2080.0,2350.0,0.0,710
+"Richmond","8351 Bennett Road, Richmond, BC",0.0,2540.0,3351.39,2700.0,711
+"Richmond","",0.0,2080.0,2350.0,0.0,712
+"Richmond","",2275.0,2815.44,3415.0,3000.0,713
+"Richmond","",0.0,2299.0,2350.0,0.0,714
+"Richmond","Lansdowne Village, Richmond, BC",2241.63,2618.48,0.0,2700.0,715
+"Richmond","",0.0,0.0,2445.0,0.0,716
+"Richmond","Goldstream Place, Richmond, BC",2515.0,2709.0,0.0,2450.0,717
+"Richmond","",0.0,0.0,2350.0,0.0,718
+"Richmond","6633 Buswell St, Richmond, BC",2664.0,2695.0,3400.0,2700.0,719
+"Richmond","",0.0,2000.0,3000.0,0.0,720
+"Richmond","Lansdowne Road, Richmond, BC",2423.44,0.0,0.0,2700.0,721
+"Richmond","",0.0,2650.0,2675.0,0.0,722
+"Richmond","Cooney Road, Richmond, BC",2278.0,2549.0,0.0,2700.0,723
+"Richmond","",0.0,1800.0,1900.0,0.0,724
+"Richmond","",0.0,2000.0,0.0,0.0,725
+"Richmond","",0.0,2100.0,2350.0,0.0,726
+"Richmond","",0.0,2167.94,2350.0,0.0,727
+"Richmond","",0.0,2295.0,2675.0,0.0,728
+"Richmond","6888 Cooney Road, Richmond, BC",0.0,0.0,3839.0,2700.0,729
+"Richmond","Cook Road, Richmond, BC",2750.0,0.0,4500.0,3300.0,730
+"Richmond","",0.0,2227.34,2595.0,0.0,731
+"Richmond","8640 Citation Drive, Richmond, BC",2319.0,2299.0,3750.0,3500.0,732
+"Richmond","",0.0,2192.34,2350.0,0.0,733
+"Richmond","8246 Lansdowne Road, Richmond, BC",1809.0,2600.0,3145.0,2700.0,734
+"Richmond","",0.0,2295.0,2100.0,0.0,735
+"Richmond","",0.0,2095.0,2350.0,0.0,736
+"Richmond","11675 Seventh Avenue, Richmond, BC",0.0,0.0,3351.39,2700.0,737
+"Richmond","",0.0,0.0,2350.0,0.0,738
+"Richmond","14088 Riverport Way, Richmond, BC",2275.0,0.0,3415.0,3000.0,739
+"Richmond","",0.0,2080.0,2350.0,0.0,740
+"Richmond","8040 Blundell Rd, Richmond, BC",0.0,2869.0,0.0,2700.0,741
+"Richmond","",0.0,2080.0,2445.0,0.0,742
+"Richmond","",2241.63,2849.0,3400.0,2450.0,743
+"Richmond","",0.0,2299.0,2350.0,0.0,744
+"Richmond","Moffatt, Richmond, BC",2515.0,2546.06,0.0,2700.0,745
+"Richmond","",0.0,0.0,3000.0,0.0,746
+"Richmond","Sills Avenue, Richmond, BC",2664.0,2699.0,0.0,2700.0,747
+"Richmond","",0.0,2000.0,2675.0,0.0,748
+"Richmond","8200 Park Road, Richmond, BC",2423.44,2880.0,3839.0,2700.0,749
+"Richmond","",0.0,2650.0,1900.0,0.0,750
+"Richmond","6733 Buswell Street, Richmond, BC",2278.0,2540.0,4500.0,2700.0,751
+"Richmond","",0.0,1800.0,0.0,0.0,752
+"Richmond","Abercrombie Drive, Richmond, BC",0.0,2815.44,3750.0,3300.0,753
+"Richmond","",0.0,2000.0,2350.0,0.0,754
+"Richmond","Minoru Boulevard, Richmond, BC",2750.0,2618.48,3145.0,3500.0,755
+"Richmond","Ackroyd Road, Richmond, BC",2319.0,2709.0,3351.39,2700.0,756
+"Richmond","100, 10100 No. 3 Road, Richmond, BC",1809.0,2695.0,2736.41,2700.0,757
+"Richmond","Westminster Highway, Richmond, BC",2275.0,0.0,2663.78,3000.0,758
+"Richmond","10951 Mortfield Road, Richmond, BC",0.0,2549.0,2715.0,2700.0,759
+"Richmond","",0.0,2100.0,2350.0,0.0,760
+"Richmond","8351 Bennett Road, Richmond, BC",2241.63,0.0,3124.0,2450.0,761
+"Richmond","",0.0,2167.94,2675.0,0.0,762
+"Richmond","",0.0,2295.0,2595.0,0.0,763
+"Richmond","",0.0,2227.34,2350.0,0.0,764
+"Richmond","",0.0,2192.34,2100.0,0.0,765
+"Richmond","",0.0,2295.0,2350.0,0.0,766
+"Richmond","",2515.0,0.0,2695.0,2700.0,767
+"Richmond","",0.0,2095.0,2350.0,0.0,768
+"Richmond","Lansdowne Village, Richmond, BC",2664.0,2299.0,3730.0,2700.0,769
+"Richmond","",0.0,0.0,2350.0,0.0,770
+"Richmond","Goldstream Place, Richmond, BC",2423.44,2600.0,2495.0,2700.0,771
+"Richmond","",0.0,2080.0,2445.0,0.0,772
+"Richmond","6633 Buswell St, Richmond, BC",2325.0,0.0,2599.0,2700.0,773
+"Richmond","",0.0,2080.0,2350.0,0.0,774
+"Richmond","Lansdowne Road, Richmond, BC",2175.0,2869.0,3370.0,3300.0,775
+"Richmond","",0.0,2299.0,3000.0,0.0,776
+"Richmond","Cooney Road, Richmond, BC",1899.0,2849.0,0.0,3500.0,777
+"Richmond","",0.0,0.0,2675.0,0.0,778
+"Richmond","6888 Cooney Road, Richmond, BC",2160.0,2546.06,2950.0,2700.0,779
+"Richmond","",0.0,0.0,1900.0,0.0,780
+"Richmond","Cook Road, Richmond, BC",2325.0,3005.0,0.0,2700.0,781
+"Richmond","",0.0,2000.0,0.0,0.0,782
+"Richmond","8640 Citation Drive, Richmond, BC",2175.0,2699.0,2736.41,3000.0,783
+"Richmond","",0.0,2650.0,2350.0,0.0,784
+"Richmond","8246 Lansdowne Road, Richmond, BC",1899.0,2880.0,2663.78,2700.0,785
+"Richmond","",0.0,1800.0,2350.0,0.0,786
+"Richmond","11675 Seventh Avenue, Richmond, BC",2160.0,2540.0,2715.0,2450.0,787
+"Richmond","",0.0,2000.0,2675.0,0.0,788
+"Richmond","",0.0,2100.0,2595.0,0.0,789
+"Richmond","14088 Riverport Way, Richmond, BC",2325.0,2815.44,3124.0,2700.0,790
+"Richmond","",0.0,2167.94,2350.0,0.0,791
+"Richmond","8040 Blundell Rd, Richmond, BC",2175.0,2618.48,2695.0,2700.0,792
+"Richmond","",0.0,2295.0,2100.0,0.0,793
+"Richmond","",1899.0,2709.0,3730.0,2700.0,794
+"Richmond","",0.0,2227.34,2350.0,0.0,795
+"Richmond","Moffatt, Richmond, BC",2160.0,2695.0,2495.0,2700.0,796
+"Richmond","",0.0,2192.34,2350.0,0.0,797
+"Richmond","Sills Avenue, Richmond, BC",2325.0,0.0,2495.0,3300.0,798
+"Richmond","",0.0,2295.0,2350.0,0.0,799
+"Richmond","8200 Park Road, Richmond, BC",2175.0,2549.0,2599.0,3500.0,800
+"Richmond","",0.0,2095.0,2445.0,0.0,801
+"Richmond","6733 Buswell Street, Richmond, BC",1899.0,0.0,3370.0,2700.0,802
+"Richmond","",0.0,0.0,2350.0,0.0,803
+"Richmond","Abercrombie Drive, Richmond, BC",2160.0,0.0,0.0,2700.0,804
+"Richmond","",0.0,2080.0,3000.0,0.0,805
+"Richmond","",0.0,2080.0,2675.0,0.0,806
+"Richmond","",0.0,2299.0,1900.0,0.0,807
+"Richmond","",0.0,0.0,0.0,0.0,808
+"Richmond","Minoru Boulevard, Richmond, BC",2325.0,2299.0,2950.0,3000.0,809
+"Richmond","",0.0,0.0,2350.0,0.0,810
+"Richmond","",0.0,2000.0,2350.0,0.0,811
+"Richmond","Ackroyd Road, Richmond, BC",2175.0,2600.0,0.0,2700.0,812
+"Richmond","",0.0,2650.0,2675.0,0.0,813
+"Richmond","100, 10100 No. 3 Road, Richmond, BC",1899.0,0.0,2736.41,2450.0,814
+"Richmond","",0.0,1800.0,2595.0,0.0,815
+"Richmond","Westminster Highway, Richmond, BC",2160.0,0.0,2663.78,2700.0,816
+"Richmond","",0.0,2000.0,2350.0,0.0,817
+"Richmond","10951 Mortfield Road, Richmond, BC",2325.0,2869.0,2715.0,2700.0,818
+"Richmond","",0.0,2100.0,2100.0,0.0,819
+"Richmond","8351 Bennett Road, Richmond, BC",2175.0,2546.06,3124.0,2700.0,820
+"Richmond","",0.0,1799.0,2350.0,0.0,821
+"Richmond","",1899.0,3005.0,2695.0,2700.0,822
+"Richmond","",0.0,1699.0,2350.0,0.0,823
+"Richmond","Lansdowne Village, Richmond, BC",2160.0,2699.0,3730.0,3300.0,824
+"Richmond","Goldstream Place, Richmond, BC",2325.0,2880.0,2495.0,3500.0,825
+"Richmond","",0.0,1899.0,2350.0,0.0,826
+"Richmond","6633 Buswell St, Richmond, BC",2175.0,2540.0,2495.0,2700.0,827
+"Richmond","",0.0,1900.0,2445.0,0.0,828
+"Richmond","Lansdowne Road, Richmond, BC",1899.0,2815.44,2599.0,2700.0,829
+"Richmond","",0.0,0.0,2350.0,0.0,830
+"Richmond","Cooney Road, Richmond, BC",2160.0,2618.48,3370.0,3000.0,831
+"Richmond","",0.0,0.0,3000.0,0.0,832
+"Richmond","6888 Cooney Road, Richmond, BC",1699.0,2709.0,0.0,2700.0,833
+"Richmond","",0.0,1787.5,2675.0,0.0,834
+"Richmond","Cook Road, Richmond, BC",0.0,2695.0,2950.0,2450.0,835
+"Richmond","",0.0,1800.0,1900.0,0.0,836
+"Richmond","8640 Citation Drive, Richmond, BC",1.0,0.0,0.0,2700.0,837
+"Richmond","",0.0,1833.0,0.0,0.0,838
+"Richmond","8246 Lansdowne Road, Richmond, BC",1650.0,2549.0,2736.41,2700.0,839
+"Richmond","",0.0,1833.0,2350.0,0.0,840
+"Richmond","11675 Seventh Avenue, Richmond, BC",1830.0,0.0,2663.78,2700.0,841
+"Richmond","",0.0,1799.0,2350.0,0.0,842
+"Richmond","",0.0,1800.0,2675.0,0.0,843
+"Richmond","14088 Riverport Way, Richmond, BC",1699.0,2299.0,2715.0,2700.0,844
+"Richmond","",0.0,2050.0,2595.0,0.0,845
+"Richmond","8040 Blundell Rd, Richmond, BC",0.0,2600.0,3124.0,3300.0,846
+"Richmond","",0.0,1999.0,2350.0,0.0,847
+"Richmond","",0.0,1950.0,2100.0,0.0,848
+"Richmond","",0.0,1787.5,2350.0,0.0,849
+"Richmond","",0.0,1799.0,2350.0,0.0,850
+"Richmond","",1.0,0.0,2695.0,3500.0,851
+"Richmond","",0.0,1699.0,2350.0,0.0,852
+"Richmond","Moffatt, Richmond, BC",1650.0,0.0,3730.0,2700.0,853
+"Richmond","",0.0,1899.0,2445.0,0.0,854
+"Richmond","Sills Avenue, Richmond, BC",1830.0,2869.0,2495.0,2700.0,855
+"Richmond","",0.0,1900.0,2350.0,0.0,856
+"Richmond","8200 Park Road, Richmond, BC",1699.0,2849.0,2495.0,3000.0,857
+"Richmond","",0.0,0.0,3000.0,0.0,858
+"Richmond","6733 Buswell Street, Richmond, BC",0.0,2546.06,2599.0,2700.0,859
+"Richmond","",0.0,0.0,2675.0,0.0,860
+"Richmond","Abercrombie Drive, Richmond, BC",1.0,3005.0,3370.0,2450.0,861
+"Richmond","",0.0,1787.5,1900.0,0.0,862
+"Richmond","Minoru Boulevard, Richmond, BC",1650.0,2699.0,0.0,2700.0,863
+"Richmond","",0.0,1800.0,0.0,0.0,864
+"Richmond","Ackroyd Road, Richmond, BC",1830.0,2880.0,2950.0,2700.0,865
+"Richmond","",0.0,1833.0,2460.0,0.0,866
+"Richmond","100, 10100 No. 3 Road, Richmond, BC",1699.0,2540.0,0.0,2700.0,867
+"Richmond","",0.0,1833.0,2587.5,0.0,868
+"Richmond","Westminster Highway, Richmond, BC",0.0,2815.44,2736.41,2700.0,869
+"Richmond","",0.0,1799.0,2950.0,0.0,870
+"Richmond","10951 Mortfield Road, Richmond, BC",1.0,2618.48,2663.78,3300.0,871
+"Richmond","",0.0,1800.0,3150.0,0.0,872
+"Richmond","8351 Bennett Road, Richmond, BC",1650.0,2167.94,2715.0,3500.0,873
+"Richmond","",0.0,2050.0,1000.0,0.0,874
+"Richmond","",1830.0,2295.0,3124.0,1200.0,875
+"Richmond","",0.0,1999.0,2900.0,0.0,876
+"Richmond","Lansdowne Village, Richmond, BC",1699.0,2227.34,2695.0,1000.0,877
+"Richmond","",0.0,1950.0,2580.0,0.0,878
+"Richmond","Goldstream Place, Richmond, BC",0.0,2192.34,3730.0,875.0,879
+"Richmond","",0.0,1787.5,3345.0,0.0,880
+"Richmond","6633 Buswell St, Richmond, BC",1.0,2295.0,2495.0,4200.0,881
+"Richmond","",0.0,1799.0,1200.0,0.0,882
+"Richmond","Lansdowne Road, Richmond, BC",1650.0,2095.0,2495.0,999.0,883
+"Richmond","",0.0,1699.0,2460.0,0.0,884
+"Richmond","Cooney Road, Richmond, BC",1830.0,0.0,2599.0,999.0,885
+"Richmond","",0.0,1899.0,2587.5,0.0,886
+"Richmond","6888 Cooney Road, Richmond, BC",1699.0,2080.0,0.0,1200.0,887
+"Richmond","",0.0,1900.0,2950.0,0.0,888
+"Richmond","",0.0,0.0,3150.0,0.0,889
+"Richmond","",0.0,0.0,1000.0,0.0,890
+"Richmond","",0.0,1787.5,2900.0,0.0,891
+"Richmond","",0.0,1800.0,2580.0,0.0,892
+"Richmond","Cook Road, Richmond, BC",0.0,2080.0,2950.0,1000.0,893
+"Richmond","",0.0,1833.0,3345.0,0.0,894
+"Richmond","8640 Citation Drive, Richmond, BC",1.0,2299.0,0.0,875.0,895
+"Richmond","",0.0,1833.0,1200.0,0.0,896
+"Richmond","8246 Lansdowne Road, Richmond, BC",1650.0,0.0,2736.41,4200.0,897
+"Richmond","",0.0,1799.0,2460.0,0.0,898
+"Richmond","",0.0,1800.0,2587.5,0.0,899
+"Richmond","11675 Seventh Avenue, Richmond, BC",1830.0,0.0,2663.78,999.0,900
+"Richmond","",0.0,2050.0,2950.0,0.0,901
+"Richmond","14088 Riverport Way, Richmond, BC",1699.0,2000.0,2715.0,999.0,902
+"Richmond","8040 Blundell Rd, Richmond, BC",0.0,2650.0,3124.0,1200.0,903
+"Richmond","",0.0,1999.0,3150.0,0.0,904
+"Richmond","",1.0,2100.0,2695.0,1000.0,905
+"Richmond","",0.0,1950.0,1000.0,0.0,906
+"Richmond","Moffatt, Richmond, BC",1650.0,2167.94,3730.0,875.0,907
+"Richmond","",0.0,1787.5,2900.0,0.0,908
+"Richmond","Sills Avenue, Richmond, BC",1830.0,2295.0,2495.0,4200.0,909
+"Richmond","",0.0,1799.0,2580.0,0.0,910
+"Richmond","8200 Park Road, Richmond, BC",1890.0,2227.34,2495.0,999.0,911
+"Richmond","",0.0,1699.0,3345.0,0.0,912
+"Richmond","6733 Buswell Street, Richmond, BC",1920.0,2192.34,2599.0,999.0,913
+"Richmond","",0.0,1899.0,1200.0,0.0,914
+"Richmond","Abercrombie Drive, Richmond, BC",1890.0,2295.0,3370.0,1200.0,915
+"Richmond","Minoru Boulevard, Richmond, BC",1920.0,2095.0,0.0,1000.0,916
+"Richmond","Ackroyd Road, Richmond, BC",1890.0,0.0,2950.0,875.0,917
+"Richmond","100, 10100 No. 3 Road, Richmond, BC",1920.0,2080.0,0.0,4200.0,918
+"Richmond","",0.0,1900.0,2460.0,0.0,919
+"Richmond","Westminster Highway, Richmond, BC",1890.0,2080.0,2736.41,999.0,920
+"Richmond","",0.0,0.0,2587.5,0.0,921
+"Richmond","10951 Mortfield Road, Richmond, BC",1920.0,2299.0,2663.78,999.0,922
+"Richmond","",0.0,0.0,2950.0,0.0,923
+"Richmond","8351 Bennett Road, Richmond, BC",1890.0,0.0,2715.0,1200.0,924
+"Richmond","",0.0,1787.5,3150.0,0.0,925
+"Richmond","",0.0,1800.0,1000.0,0.0,926
+"Richmond","",1920.0,0.0,3124.0,1000.0,927
+"Richmond","",0.0,1833.0,2900.0,0.0,928
+"Richmond","Lansdowne Village, Richmond, BC",1890.0,2000.0,2695.0,875.0,929
+"Richmond","",0.0,1833.0,2580.0,0.0,930
+"Richmond","Goldstream Place, Richmond, BC",1920.0,2650.0,3730.0,4200.0,931
+"Richmond","",0.0,1799.0,3345.0,0.0,932
+"Richmond","6633 Buswell St, Richmond, BC",1890.0,1800.0,2495.0,999.0,933
+"Richmond","",0.0,1800.0,1200.0,0.0,934
+"Richmond","Lansdowne Road, Richmond, BC",1920.0,2000.0,2495.0,999.0,935
+"Richmond","",0.0,2050.0,2460.0,0.0,936
+"Richmond","",0.0,1999.0,2587.5,0.0,937
+"Richmond","",0.0,1950.0,2950.0,0.0,938
+"Richmond","",0.0,1787.5,3150.0,0.0,939
+"Richmond","",0.0,1799.0,1000.0,0.0,940
+"Richmond","",0.0,1699.0,2900.0,0.0,941
+"Richmond","",0.0,1899.0,2580.0,0.0,942
+"Richmond","",0.0,1900.0,3345.0,0.0,943
+"Richmond","",0.0,0.0,1200.0,0.0,944
+"Richmond","",0.0,0.0,2460.0,0.0,945
+"Richmond","",0.0,1787.5,2587.5,0.0,946
+"Richmond","",0.0,1800.0,2950.0,0.0,947
+"Richmond","",0.0,1833.0,3150.0,0.0,948
+"Richmond","",0.0,1833.0,1000.0,0.0,949
+"Richmond","",0.0,1799.0,2900.0,0.0,950
+"Richmond","",0.0,1800.0,2580.0,0.0,951
+"Richmond","",0.0,2050.0,3345.0,0.0,952
+"Richmond","",0.0,1999.0,1200.0,0.0,953
+"Richmond","",0.0,1950.0,2460.0,0.0,954
+"Surrey","",0.0,1833.0,2350.0,0.0,955
+"Richmond","",0.0,1787.5,2587.5,0.0,956
+"Richmond","",0.0,1799.0,2950.0,0.0,957
+"Surrey","",0.0,1799.0,2350.0,0.0,958
+"Richmond","",0.0,1699.0,3150.0,0.0,959
+"Surrey","",0.0,1800.0,2675.0,0.0,960
+"Richmond","",0.0,1899.0,1000.0,0.0,961
+"Surrey","",0.0,2050.0,2595.0,0.0,962
+"Richmond","",0.0,1900.0,2900.0,0.0,963
+"Richmond","",0.0,0.0,2580.0,0.0,964
+"Surrey","",0.0,1999.0,2350.0,0.0,965
+"Surrey","",0.0,1950.0,2100.0,0.0,966
+"Surrey","",0.0,1787.5,2350.0,0.0,967
+"Richmond","",0.0,0.0,3345.0,0.0,968
+"Richmond","",0.0,1787.5,1200.0,0.0,969
+"Surrey","",0.0,1799.0,2350.0,0.0,970
+"Richmond","",0.0,1800.0,0.0,0.0,971
+"Surrey","",0.0,1699.0,2350.0,0.0,972
+"Richmond","",0.0,1833.0,0.0,0.0,973
+"Surrey","",0.0,1899.0,2445.0,0.0,974
+"Surrey","",0.0,1900.0,2350.0,0.0,975
+"Surrey","",0.0,0.0,3000.0,0.0,976
+"Surrey","",0.0,0.0,2675.0,0.0,977
+"Surrey","",0.0,1787.5,1900.0,0.0,978
+"Surrey","",0.0,1800.0,0.0,0.0,979
+"Surrey","",0.0,1833.0,0.0,0.0,980
+"Surrey","",0.0,1833.0,0.0,0.0,981
+"Surrey","",0.0,1799.0,0.0,0.0,982
+"Surrey","",0.0,1800.0,0.0,0.0,983
+"Surrey","",0.0,2050.0,0.0,0.0,984
+"Burnaby","7360 HALIFAX ST, Burnaby, BC",0.0,2295.0,2495.0,0.0,985
+"Surrey","",0.0,1999.0,0.0,0.0,986
+"Surrey","",0.0,1950.0,0.0,0.0,987
+"Burnaby","7588 16th Street, Burnaby, BC",0.0,2095.0,2495.0,0.0,988
+"Surrey","",0.0,1787.5,0.0,0.0,989
+"Burnaby","3809 Evergreen Place, Burnaby, BC",0.0,0.0,2599.0,0.0,990
+"Surrey","",0.0,1799.0,0.0,0.0,991
+"Surrey","",0.0,1699.0,0.0,0.0,992
+"Surrey","",0.0,1899.0,0.0,0.0,993
+"Surrey","",0.0,1900.0,0.0,0.0,994
+"Surrey","",0.0,0.0,0.0,0.0,995
+"Surrey","",0.0,0.0,0.0,0.0,996
+"Surrey","",0.0,1787.5,0.0,0.0,997
+"Surrey","",0.0,1800.0,0.0,0.0,998
+"Surrey","",0.0,1833.0,0.0,0.0,999
+"Surrey","",0.0,1833.0,0.0,0.0,1000
+"Surrey","",0.0,1799.0,0.0,0.0,1001
+"Surrey","",0.0,1800.0,0.0,0.0,1002
+"Richmond","",0.0,1833.0,0.0,0.0,1003
+"Surrey","",0.0,2050.0,0.0,0.0,1004
+"Richmond","",0.0,1799.0,0.0,0.0,1005
+"Surrey","",0.0,1999.0,0.0,0.0,1006
+"Richmond","",0.0,1800.0,0.0,0.0,1007
+"Surrey","",0.0,1950.0,0.0,0.0,1008
+"Richmond","",0.0,2050.0,0.0,0.0,1009
+"Surrey","",0.0,1787.5,0.0,0.0,1010
+"Surrey","",0.0,1799.0,0.0,0.0,1011
+"Surrey","",0.0,1699.0,0.0,0.0,1012
+"Surrey","",0.0,1899.0,0.0,0.0,1013
+"Surrey","",0.0,1900.0,0.0,0.0,1014
+"Richmond","",0.0,1999.0,0.0,0.0,1015
+"Surrey","",0.0,0.0,0.0,0.0,1016
+"Richmond","",0.0,1950.0,0.0,0.0,1017
+"Surrey","",0.0,0.0,0.0,0.0,1018
+"Richmond","",0.0,1787.5,0.0,0.0,1019
+"Surrey","",0.0,1787.5,0.0,0.0,1020
+"Richmond","",0.0,1799.0,0.0,0.0,1021
+"Surrey","",0.0,1800.0,0.0,0.0,1022
+"Richmond","",0.0,1699.0,0.0,0.0,1023
+"Surrey","",0.0,1833.0,0.0,0.0,1024
+"Richmond","",0.0,1899.0,0.0,0.0,1025
+"Surrey","",0.0,1833.0,0.0,0.0,1026
+"Surrey","",0.0,1799.0,0.0,0.0,1027
+"Richmond","",0.0,1900.0,0.0,0.0,1028
+"Richmond","",0.0,0.0,0.0,0.0,1029
+"Richmond","",0.0,0.0,0.0,0.0,1030
+"Richmond","",0.0,1787.5,0.0,0.0,1031
+"Richmond","",0.0,1800.0,0.0,0.0,1032
+"Surrey","",0.0,1800.0,0.0,0.0,1033
+"Richmond","",0.0,1833.0,0.0,0.0,1034
+"Surrey","",0.0,2050.0,0.0,0.0,1035
+"Richmond","",0.0,1833.0,0.0,0.0,1036
+"Surrey","",0.0,1999.0,0.0,0.0,1037
+"Richmond","",0.0,1799.0,0.0,0.0,1038
+"Surrey","",0.0,1950.0,0.0,0.0,1039
+"Richmond","",0.0,1800.0,0.0,0.0,1040
+"Surrey","",0.0,1787.5,0.0,0.0,1041
+"Richmond","",0.0,2050.0,0.0,0.0,1042
+"Surrey","",0.0,1799.0,0.0,0.0,1043
+"Richmond","",0.0,1999.0,0.0,0.0,1044
+"Surrey","",0.0,1699.0,0.0,0.0,1045
+"Richmond","",0.0,1950.0,0.0,0.0,1046
+"Surrey","",0.0,1899.0,0.0,0.0,1047
+"Richmond","",0.0,2270.0,0.0,0.0,1048
+"Surrey","",0.0,1900.0,0.0,0.0,1049
+"Richmond","",0.0,2100.0,0.0,0.0,1050
+"Surrey","",0.0,0.0,0.0,0.0,1051
+"Surrey","",0.0,0.0,0.0,0.0,1052
+"Surrey","",0.0,1787.5,0.0,0.0,1053
+"Surrey","",0.0,1800.0,0.0,0.0,1054
+"Richmond","",0.0,1150.0,0.0,0.0,1055
+"Surrey","",0.0,1833.0,0.0,0.0,1056
+"Richmond","",0.0,2000.0,0.0,0.0,1057
+"Surrey","",0.0,1833.0,0.0,0.0,1058
+"Surrey","",0.0,1799.0,0.0,0.0,1059
+"Richmond","",0.0,2150.0,0.0,0.0,1060
+"Surrey","",0.0,1800.0,0.0,0.0,1061
+"Richmond","",0.0,2295.0,0.0,0.0,1062
+"Surrey","",0.0,2050.0,0.0,0.0,1063
+"Richmond","",0.0,2225.0,0.0,0.0,1064
+"Surrey","",0.0,1999.0,0.0,0.0,1065
+"Richmond","",0.0,1000.0,0.0,0.0,1066
+"Surrey","",0.0,1950.0,0.0,0.0,1067
+"Richmond","",0.0,800.0,0.0,0.0,1068
+"Surrey","",0.0,1787.5,0.0,0.0,1069
+"Richmond","",0.0,2140.0,0.0,0.0,1070
+"Surrey","",0.0,1799.0,0.0,0.0,1071
+"Richmond","",0.0,1100.0,0.0,0.0,1072
+"Surrey","",0.0,1699.0,0.0,0.0,1073
+"Richmond","",0.0,2210.0,0.0,0.0,1074
+"Richmond","",0.0,1405.0,0.0,0.0,1075
+"Richmond","",0.0,2270.0,0.0,0.0,1076
+"Richmond","",0.0,2100.0,0.0,0.0,1077
+"Surrey","",0.0,1899.0,0.0,0.0,1078
+"Richmond","",0.0,1150.0,0.0,0.0,1079
+"Surrey","",0.0,1900.0,0.0,0.0,1080
+"Richmond","",0.0,2000.0,0.0,0.0,1081
+"Richmond","",0.0,2150.0,0.0,0.0,1082
+"Surrey","",0.0,0.0,0.0,0.0,1083
+"Richmond","",0.0,2295.0,0.0,0.0,1084
+"Surrey","",0.0,0.0,0.0,0.0,1085
+"Richmond","",0.0,2225.0,0.0,0.0,1086
+"Surrey","",0.0,1787.5,0.0,0.0,1087
+"Richmond","",0.0,1000.0,0.0,0.0,1088
+"Surrey","",0.0,1800.0,0.0,0.0,1089
+"Richmond","",0.0,800.0,0.0,0.0,1090
+"Surrey","",0.0,1833.0,0.0,0.0,1091
+"Richmond","",0.0,2140.0,0.0,0.0,1092
+"Surrey","",0.0,1833.0,0.0,0.0,1093
+"Richmond","",0.0,1100.0,0.0,0.0,1094
+"Richmond","",0.0,2210.0,0.0,0.0,1095
+"Surrey","",0.0,1799.0,0.0,0.0,1096
+"Richmond","",0.0,1405.0,0.0,0.0,1097
+"Surrey","",0.0,1800.0,0.0,0.0,1098
+"Richmond","",0.0,2270.0,0.0,0.0,1099
+"Surrey","",0.0,2050.0,0.0,0.0,1100
+"Surrey","",0.0,1999.0,0.0,0.0,1101
+"Richmond","",0.0,2100.0,0.0,0.0,1102
+"Richmond","",0.0,1150.0,0.0,0.0,1103
+"Richmond","",0.0,2000.0,0.0,0.0,1104
+"Richmond","",0.0,2150.0,0.0,0.0,1105
+"Richmond","",0.0,2295.0,0.0,0.0,1106
+"Richmond","",0.0,2225.0,0.0,0.0,1107
+"Richmond","",0.0,1000.0,0.0,0.0,1108
+"Richmond","",0.0,800.0,0.0,0.0,1109
+"Richmond","",0.0,2140.0,0.0,0.0,1110
+"Richmond","",0.0,1100.0,0.0,0.0,1111
+"Richmond","",0.0,2210.0,0.0,0.0,1112
+"Richmond","",0.0,1405.0,0.0,0.0,1113
+"Richmond","",0.0,2270.0,0.0,0.0,1114
+"Richmond","",0.0,2100.0,0.0,0.0,1115
+"Richmond","",0.0,1150.0,0.0,0.0,1116
+"Richmond","",0.0,2000.0,0.0,0.0,1117
+"Richmond","",0.0,2150.0,0.0,0.0,1118
+"Richmond","",0.0,2295.0,0.0,0.0,1119
+"Richmond","",0.0,2225.0,0.0,0.0,1120
+"Richmond","",0.0,1000.0,0.0,0.0,1121
+"Richmond","",0.0,800.0,0.0,0.0,1122
+"Richmond","",0.0,2140.0,0.0,0.0,1123
+"Richmond","",0.0,1100.0,0.0,0.0,1124
+"Richmond","",0.0,2210.0,0.0,0.0,1125
+"Richmond","",0.0,1405.0,0.0,0.0,1126
+"Richmond","",0.0,2270.0,0.0,0.0,1127
+"Richmond","",0.0,2100.0,0.0,0.0,1128
+"Richmond","",0.0,1150.0,0.0,0.0,1129
+"Richmond","",0.0,2000.0,0.0,0.0,1130
+"Richmond","",0.0,2150.0,0.0,0.0,1131
+"Richmond","",0.0,2295.0,0.0,0.0,1132
+"Richmond","",0.0,2225.0,0.0,0.0,1133
+"Richmond","",0.0,1000.0,0.0,0.0,1134
+"Richmond","",0.0,800.0,0.0,0.0,1135
+"Richmond","",0.0,2140.0,0.0,0.0,1136
+"Richmond","",0.0,1100.0,0.0,0.0,1137
+"Richmond","",0.0,2210.0,0.0,0.0,1138
+"Richmond","",0.0,1405.0,0.0,0.0,1139
+"Richmond","",0.0,2270.0,0.0,0.0,1140
+"Richmond","",0.0,2100.0,0.0,0.0,1141
+"Richmond","",0.0,1150.0,0.0,0.0,1142
+"Richmond","",0.0,2000.0,0.0,0.0,1143
+"Richmond","",0.0,2150.0,0.0,0.0,1144
+"Richmond","",0.0,2295.0,0.0,0.0,1145
+"Richmond","",0.0,2225.0,0.0,0.0,1146
+"Richmond","",0.0,1000.0,0.0,0.0,1147
+"Richmond","",0.0,800.0,0.0,0.0,1148
+"Richmond","",0.0,2140.0,0.0,0.0,1149
+"Richmond","",0.0,1100.0,0.0,0.0,1150
+"Richmond","",0.0,2210.0,0.0,0.0,1151
+"Richmond","",0.0,1405.0,0.0,0.0,1152
+"Richmond","",0.0,2270.0,0.0,0.0,1153
+"Richmond","",0.0,2100.0,0.0,0.0,1154
+"Richmond","",0.0,1150.0,0.0,0.0,1155
+"Richmond","",0.0,2000.0,0.0,0.0,1156
+"Richmond","",0.0,2150.0,0.0,0.0,1157
+"Richmond","",0.0,2295.0,0.0,0.0,1158
+"Richmond","",0.0,2225.0,0.0,0.0,1159
+"Richmond","",0.0,1000.0,0.0,0.0,1160
+"Richmond","",0.0,800.0,0.0,0.0,1161
+"Richmond","",0.0,2140.0,0.0,0.0,1162
+"Richmond","",0.0,1100.0,0.0,0.0,1163
+"Richmond","",0.0,2210.0,0.0,0.0,1164
+"Richmond","",0.0,1405.0,0.0,0.0,1165

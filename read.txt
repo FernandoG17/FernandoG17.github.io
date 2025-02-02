@@ -1,0 +1,9 @@
+# Icon Credits
+
+Icons created by:
+- [Github icons by riajulislam - Flaticon](https://www.flaticon.com/free-icons/github)
+- [Linkedin icons by riajulislam - Flaticon](https://www.flaticon.com/free-icons/linkedin)
+- [Gmail icons by Freepik - Flaticon](https://www.flaticon.com/free-icons/gmail)
+- [Python icons by Freepik - Flaticon](https://www.flaticon.com/free-icons/python)
+- [SQL icons by juicy_fish - Flaticon](https://www.flaticon.com/free-icons/sql)
+- [Excel icons by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/excel)

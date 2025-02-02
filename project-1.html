@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fernando's Website</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/project-1.css">
+    <link rel="stylesheet" href = "styles/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+
+    <!-- Prism.js JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+
+    <!-- Prism.js Python language support -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+</head>
+
+<body>
+    <div class="page-wrapper">
+        <div class="nav-wrapper">
+            <nav>
+                <div class="home">
+                    <a href="index.html">Home</a>
+                </div>
+            </nav>
+        </div>
+        <div class="project-wrapper">
+            <h1 class="projects-names">PROJECT</h1>
+            <div class="display-graphs">
+                <button id="prevBtn">&#10094;</button> <!-- Previous Button -->
+                <div class="slides-container">
+                    <img src="images/graphs project1/Overview.png" class="slide active">
+                    <img src="images/graphs project1/Average-Studio.png" class="slide">
+                    <img src="images/graphs project1/Average-1B.png" class="slide">
+                    <img src="images/graphs project1/Average-2B.png" class="slide">
+                    <img src="images/graphs project1/Average-3B.png" class="slide">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <meta name="description"
+                        content="Fernando's portfolio - Data analysis, Python, SQL, Power BI, and Tableau projects.">
+                    <meta property="og:title" content="Fernando's Data Science Portfolio">
+                    <meta property="og:description"
+                        content="Explore projects on data analysis, housing prices, and fraud detection.">
+                    <meta property="og:image" content="images/preview.png">
+                    <meta property="og:url" content="https://yourwebsite.com">
+                    <meta property="og:type" content="website">
+                    <link rel="preconnect" href="https://fonts.googleapis.com">
+                    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                </div>
+                <button id="nextBtn">&#10095;</button> <!-- Next Button -->
+            </div>
+
+            <div class="description">
+                <div class="overview">
+                    <h2>Description</h2>
+                </div>
+                <div class="description-text">
+                    <p><strong>Tracking Rental Prices Accurately</strong></p>
+                    <p>Tracking rental prices accurately is essential for renters and investors. This project scrapes
+                        rental listings from Rentals.ca and organizes them into an easy-to-analyze dataset. Initially,
+                        the average rent calculations were inconsistent due to some listings skewing the results. To
+                        ensure accuracy, I used SQL and pandas to clean the data, filter out anomalies, and compute
+                        correct averages for each bedroom type.</p>
+
+                    <p><strong>With this tool, users can:</strong></p>
+                    <ul>
+                        <li>Compare rental prices by city and bedroom count.</li>
+                        <li>Identify trends in the Lower Mainland rental market.</li>
+                        <li>Access accurate and structured data, verified through SQL queries.</li>
+                    </ul>
+
+                    <p><strong>Future Enhancements:</strong> Future enhancements may include interactive dashboards and
+                        predictive rent analysis using machine learning.</p>
+
+                </div>
+                <div class="tools-used">
+                    <div class="skill-p"><img src="icons/skills-icons/python.png" height=40 width=40>
+                    </div>
+                    <div class="skill-p"><img src="icons/skills-icons/tableau.svg" height=40 width=40>
+                    </div>
+                    <div class="skill-p"><img src="icons/skills-icons/pandas.svg" height=40 width=40>
+                    </div>
+                    <div class="skill-p"><img src="icons/skills-icons/sql-server.png" height=40 width=40>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="code">
+            <div class="code1">
+                <h2>Python Code</h2>
+                <div class="project-container">
+                    <pre><code class="language-python">
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException
+import pandas as pd
+import time
+
+# Open websites
+firefox_options = Options()
+driver = webdriver.Firefox(options=firefox_options)
+driver.get('https://rentals.ca/vancouver')
+
+#Accept cookies when opening the website
+cookies = driver.find_element(By.XPATH, '//*[@id="ez-cookie-notification__accept"]')
+cookies.click()
+
+#Dictionary to save each room number price
+bedroom_data = {
+    '0 Bedroom': {'prices': []},
+    '1 Bedroom': {'prices': []},
+    '2 Bedroom': {'prices': []},
+    '3 Bedroom': {'prices': []},
+    '4 Bedroom': {'prices': []},
+    '5 Bedroom': {'prices': []},
+    '1.5 Bedroom': {'prices': []},
+    '2.5 Bedroom': {'prices': []},
+    '3.5 Bedroom': {'prices': []},
+}
+
+all_data = []
+cities = ["Vancouver", "Burnaby", "Surrey", "Richmond"]
+print("Working...")
+
+for city in cities:
+    print(f"Locating at {city}")
+    driver.get(f"https://rentals.ca/{city}")
+    addresses = []
+    for press in range(7):  # Loop to go through multiple pages
+        list_container = driver.find_elements(By.CSS_SELECTOR, '.listing-card-container.col-12')
+
+        for x in list_container:
+            print("Working...")
+            x.click()
+            time.sleep(0.3)  # Allow detail page to load
+
+            # Get listing details (number of bedrooms and prices)
+            info_div = driver.find_elements(By.CLASS_NAME, "floor-plan-group")
+
+            try:
+                address_element = driver.find_element(By.CSS_SELECTOR,
+                                                        ".listing-overview > div:nth-child(3) > div:nth-child(4) > h2:nth-child(6)")
+                address = address_element.text.strip()
+            except NoSuchElementException:
+                address = ""
+
+            addresses.append(address)
+
+            for n in info_div:
+                bed_elem = n.find_element(By.CSS_SELECTOR, 'div.d-flex.align-items-center.justify-content-between')
+                bed_text = bed_elem.text.strip()  # Remove extra spaces
+
+                clean_bed = bed_text.split("\n")[0]
+
+                # Find price (adjust the selector based on the element's structure)
+                price_elem = n.find_element(By.CSS_SELECTOR, "li.unit-details__infos--price")
+
+                bedroom_data[clean_bed]['prices'].append(price_elem.text)
+
+            time.sleep(1.5)  # Give time for page to load before going back
+            back = driver.find_element(By.CSS_SELECTOR, ".listing-overview__close")
+            back.click()
+
+        # Navigate to next page
+        next_button = driver.find_element(By.CSS_SELECTOR, "ul.pagination li.pagination__item a")
+        next_button.click()
+
+    # Append all data after collecting for each city
+    for n in range(len(bedroom_data['1 Bedroom']['prices'])):
+        listings = {
+            "City": city,
+            "Address": addresses[n] if n < len(addresses) else None,
+            "0 Bedroom": bedroom_data['0 Bedroom']['prices'][n] if '0 Bedroom' in bedroom_data and 'prices' in bedroom_data['0 Bedroom'] and n < len(bedroom_data['0 Bedroom']['prices']) else None,
+            "1 Bedroom": bedroom_data['1 Bedroom']['prices'][n] if n < len(bedroom_data['1 Bedroom']['prices']) else None,
+            "2 Bedroom": bedroom_data['2 Bedroom']['prices'][n] if n < len(bedroom_data['2 Bedroom']['prices']) else None,
+            "3 Bedroom": bedroom_data['3 Bedroom']['prices'][n] if n < len(bedroom_data['3 Bedroom']['prices']) else None,
+            "4 Bedroom": bedroom_data['4 Bedroom']['prices'][n] if n < len(bedroom_data['4 Bedroom']['prices']) else None,
+            "5 Bedroom": bedroom_data['5 Bedroom']['prices'][n] if n < len(bedroom_data['5 Bedroom']['prices']) else None,
+            "1.5 Bedroom": bedroom_data['1.5 Bedroom']['prices'][n] if n < len(bedroom_data['5 Bedroom']['prices']) else None,
+            "2.5 Bedroom": bedroom_data['2.5 Bedroom']['prices'][n] if n < len(bedroom_data['5 Bedroom']['prices']) else None,
+            "3.5 Bedroom": bedroom_data['3.5 Bedroom']['prices'][n] if n < len(bedroom_data['5 Bedroom']['prices']) else None
+        }
+        all_data.append(listings)
+
+# Save data to Excel
+df = pd.DataFrame(all_data)
+df.to_excel('rent_info.xlsx', index=False)
+print("Done")
+driver.quit()
+                            </code></pre>
+                </div>
+            </div>
+            <div class="code2">
+                <h2>SQL</h2>
+                <div class="project-container">
+                    <pre><code class="language-sql">                    
+
+-- Create new table and make a copy of the unclean table
+CREATE TABLE rent
+LIKE unclean_prices;
+
+INSERT rent 
+SELECT * 
+FROM unclean_prices;
+
+-- Clean prices by deleting $ sings, commands and white spaces 
+UPDATE rent
+SET `0 Bedroom` = REPLACE(REPLACE(`0 Bedroom`, '$', ''), ',', '');
+
+UPDATE rent
+SET `1 Bedroom` = REPLACE(REPLACE(`1 Bedroom`, '$', ''), ',', '');
+
+UPDATE rent
+SET `2 Bedroom` = REPLACE(REPLACE(`2 Bedroom`, '$', ''), ',', '');
+
+UPDATE rent
+SET `3 Bedroom` = REPLACE(REPLACE(`3 Bedroom`, '$', ''), ',', '');
+
+UPDATE rent 
+SET `0 Bedroom` = TRIM(`0 Bedroom`);
+
+UPDATE rent 
+SET `1 Bedroom` = TRIM(`1 Bedroom`);
+
+UPDATE rent 
+SET `2 Bedroom` = TRIM(`2 Bedroom`);
+
+UPDATE rent 
+SET `3 Bedroom` = TRIM(`3 Bedroom`);
+
+-- -----------------------------------------------------------------
+-- Add a key column
+ALTER TABLE rent ADD COLUMN id INT AUTO_INCREMENT PRIMARY KEY;
+
+-- Set all empty spaces to null so we can switch the bedroom columns to ints
+
+UPDATE rent 
+SET `0 Bedroom` = NULL
+WHERE `0 Bedroom` = '';
+
+UPDATE rent 
+SET `1 Bedroom` = NULL
+WHERE `1 Bedroom` = '';
+
+UPDATE rent 
+SET `2 Bedroom` = NULL
+WHERE `2 Bedroom` = '';
+
+UPDATE rent 
+SET `3 Bedroom` = NULL
+WHERE `3 Bedroom` = '';
+
+-- Modify columns from text to float
+ALTER TABLE rent MODIFY COLUMN `0 Bedroom` FLOAT;
+
+ALTER TABLE rent MODIFY COLUMN `1 Bedroom` FLOAT;
+
+ALTER TABLE rent MODIFY COLUMN `2 Bedroom` FLOAT;
+
+ALTER TABLE rent MODIFY COLUMN `3 Bedroom` FLOAT;
+
+
+-- Tableau average was not the same as SQL average so I compared averages from both tools
+SELECT COUNT(*)
+FROM rent;
+
+SELECT AVG(`2 Bedroom`)
+FROM rent
+WHERE CITY LIKE '%Van%';
+
+SELECT City,AVG(`0 Bedroom`),AVG(`1 Bedroom`),AVG(`2 Bedroom`), AVG(`3 Bedroom`)
+FROM rent 
+GROUP BY `City`;
+
+SELECT * 
+FROM rent
+WHERE `0 Bedroom` IS NULL 
+OR `1 Bedroom` IS NULL
+OR `2 Bedroom` IS NULL 
+OR `3 Bedroom` IS NULL                        
+
+                        </code></pre>
+                </div>
+            </div>
+        </div>
+        <div class="documentation-wrap">
+            <div class="doc-title">
+                <h1>Documentation</h1>
+            </div>
+            <div class="documentation">
+                <ul>
+                    <li>No documentation for this project</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Fernando Gonzalez. All rights reserved.</p>
+    </footer>
+    <script src="javascript/slider.js"></script>
+</body>

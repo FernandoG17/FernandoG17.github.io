@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fernando's Website</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/project-2.css">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+
+    <!-- Prism.js JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+
+    <!-- Prism.js Python language support -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+</head>
+
+<body>
+    <div class="page-wrapper">
+        <div class="nav-wrapper">
+            <nav>
+                <div class="home">
+                    <a href="index.html">Home</a>
+                </div>
+            </nav>
+        </div>
+        <div class="project-wrapper">
+            <h1 class="projects-names">PROJECT</h1>
+            <div class="display-graphs">
+                <button id="prevBtn">&#10094;</button> <!-- Previous Button -->
+                <div class="slides-container">
+                    <img src="images/graphs project3/graph1.png" class="slide active">
+                    <img src="images/graphs project3/graph2.png" class="slide">
+                    <img src="images/graphs project3/graph3.png" class="slide">
+                    <img src="images/graphs project3/graph4.png" class="slide">
+                    <img src="images/graphs project3/graph5.png" class="slide">
+                    <img src="images/graphs project3/graph6.png" class="slide">
+                    <img src="images/graphs project3/graph7.png" class="slide">
+                    <img src="images/graphs project3/graph8.png" class="slide">
+                    <img src="images/graphs project3/Dashboard1.png" class="slide">
+                    <img src="images/graphs project3/Dashboard2.png" class="slide">
+                    <img src="images/graphs project3/Dashboard3.png" class="slide">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <meta name="description"
+                        content="Fernando's portfolio - Data analysis, Python, SQL, Power BI, and Tableau projects.">
+                    <meta property="og:title" content="Fernando's Data Science Portfolio">
+                    <meta property="og:description"
+                        content="Explore projects on data analysis, housing prices, and fraud detection.">
+                    <meta property="og:image" content="images/preview.png">
+                    <meta property="og:url" content="https://yourwebsite.com">
+                    <meta property="og:type" content="website">
+                    <link rel="preconnect" href="https://fonts.googleapis.com">
+                    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                </div>
+                <button id="nextBtn">&#10095;</button> <!-- Next Button -->
+            </div>
+
+            <div class="description">
+                <div class="overview">
+                    <h2>Description</h2>
+                </div>
+                <div class="description-text">
+                    <p>The <strong>Fraud Detection System</strong> is an advanced data analysis project designed to
+                        identify fraudulent credit card transactions by leveraging structured databases and SQL queries.
+                        It focuses on detecting suspicious activity in financial transactions by analyzing transaction
+                        data, customer demographics, and credit card details. The system uses a series of
+                        <strong>SQL-based joins and queries</strong> to consolidate and examine data across multiple
+                        tables, including transaction records, customer profiles, and fraud flags.</p>
+
+                    <h2>Core Components:</h2>
+                    <ul>
+                        <li><strong>Transaction Data</strong> – Captures details about each transaction, such as the
+                            transaction amount, date, credit card number, and customer ID.</li>
+                        <li><strong>Fraud Detection</strong> – Links each transaction to a fraud flag, marking it as
+                            either fraudulent or legitimate.</li>
+                        <li><strong>Customer Information</strong> – Includes data about the customer’s age, segment, and
+                            credit history to assess their transaction behavior and potential risk.</li>
+                        <li><strong>Credit Card Information</strong> – Stores details about credit limits and cardholder
+                            information, which help in determining high-risk transactions.</li>
+                    </ul>
+
+                    <p>By combining these components, the system is able to analyze patterns in the data, such as
+                        unusual spending behavior, large transactions, or patterns indicative of fraud. The project also
+                        enables businesses and financial institutions to gain insights into customer spending habits,
+                        identify high-risk transactions, and reduce the likelihood of financial losses due to fraud.</p>
+
+                    <p>The <strong>Fraud Detection System</strong> can be further enhanced through the use of
+                        <strong>data visualization tools</strong> such as <strong>Power BI</strong> or
+                        <strong>Tableau</strong>, which present the data in an easy-to-understand format, highlighting
+                        trends and anomalies. Additionally, the system can incorporate <strong>machine learning
+                            models</strong> for predictive analysis, improving its ability to flag fraudulent
+                        transactions in real time.</p>
+
+                    <p>This project serves as a comprehensive solution for fraud detection, utilizing a combination of
+                        data science techniques, relational database management, and automation to protect both
+                        consumers and businesses from financial crimes.</p>
+                </div>
+                <div class="tools-used">
+
+                    <div class="skill-p"><img src="icons/skills-icons/tableau.svg" height=40 width=40>
+                    </div>
+                    <div class="skill-p"><img src="icons/skills-icons/sql-server.png" height=40 width=40>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="code">
+            <div class="code1">
+                <h2>Python Code</h2>
+                <div class="project-container">
+                    <pre><code class="language-python">
+                        <!--INSERT CODE HERE-->
+                            </code></pre>
+                </div>
+            </div>
+            <div class="code2">
+                <h2>SQL</h2>
+                <div class="project-container">
+                    <pre><code class="language-sql">                    
+                        -- Create a new database called 'fraud_project'
+CREATE DATABASE fraud_project;
+
+-- Select the 'fraud_project' database to use it for queries and table creation
+USE fraud_project;
+
+-- Retrieve all records from the 'customerbase' table
+SELECT * 
+FROM customerbase;
+
+-- Retrieve transaction details along with fraud status
+SELECT transactionbase.transaction_id,
+       transactionbase.transaction_date, 
+       transactionbase.transaction_value,
+       fraudbase.fraud_flag
+FROM transactionbase
+LEFT JOIN fraudbase 
+       ON transactionbase.transaction_id = fraudbase.transaction_id;
+       
+-- Retrieve all records from the 'customerbase' table again
+SELECT *
+FROM customerbase;
+
+-- Create a new table 'bank_info' by joining multiple tables to consolidate data
+CREATE TABLE bank_info AS
+SELECT customerbase.cust_id,             -- Customer ID
+       transactionbase.transaction_id,    -- Transaction ID
+       customerbase.age,                  -- Customer Age
+       customerbase.customer_segment,     -- Customer Segment
+       transactionbase.transaction_date,  -- Date of transaction
+       transactionbase.transaction_value, -- Transaction amount
+       cardbase.credit_limit,             -- Credit card limit
+       fraudbase.fraud_flag               -- Fraud status (flag)
+FROM customerbase
+INNER JOIN cardbase  
+       ON customerbase.cust_id = cardbase.cust_id  -- Match customers with their cards
+INNER JOIN transactionbase 
+       ON cardbase.card_number = transactionbase.credit_card_id  -- Match cards with transactions
+LEFT JOIN fraudbase  
+       ON transactionbase.transaction_id = fraudbase.transaction_id;  -- Attach fraud details if available
+
+-- Drop the 'bank_info' table (removes it permanently)
+DROP TABLE bank_info;
+
+-- Convert 'transaction_date' format to a standard date format
+UPDATE bank_info
+SET transaction_date = STR_TO_DATE(transaction_date, '%d-%b-%y');
+
+-- Ensure 'transaction_date' is stored as a proper DATE type
+UPDATE bank_info
+SET transaction_date = DATE(transaction_date);
+
+-- Retrieve all records from 'bank_info' after modifications
+SELECT *
+FROM bank_info;
+
+-- Show the structure of the 'bank_info' table
+DESCRIBE bank_info;
+
+-- Modify the 'fraud_flag' column to store text values instead of boolean
+ALTER TABLE bank_info
+MODIFY COLUMN fraud_flag VARCHAR(3);
+
+-- Update fraud flag values: change '1' to 'YES' for better readability
+UPDATE bank_info
+SET fraud_flag = 'YES'
+WHERE fraud_flag = 1;
+
+-- Update fraud flag values: change '0' to 'NO'
+UPDATE bank_info
+SET fraud_flag = 'NO'
+WHERE fraud_flag = '0';
+
+-- Retrieve all transactions flagged as fraudulent
+SELECT *
+FROM bank_info
+WHERE fraud_flag = 'YES';
+
+-- Count the number of fraudulent transactions
+SELECT COUNT(*)
+FROM bank_info 
+WHERE fraud_flag = 'YES';
+                        </code></pre>
+                </div>
+            </div>
+        </div>
+        <div class="documentation-wrap">
+            <div class="doc-title">
+                <h1>Documentation</h1>
+            </div>
+            <div class="documentation">
+                <ul>
+                    <!--DOCUMENTATION HERE-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Fernando Gonzalez. All rights reserved.</p>
+    </footer>
+    <script src="javascript/slider.js"></script>
+</body>

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Fernando's Website</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/project-2.css">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+
+    <!-- Prism.js JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+
+    <!-- Prism.js Python language support -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+</head>
+
+<body>
+    <div class="page-wrapper">
+        <div class="nav-wrapper">
+            <nav>
+                <div class="home">
+                    <a href="index.html">Home</a>
+                </div>
+            </nav>
+        </div>
+        <div class="project-wrapper">
+            <h1 class="projects-names">PROJECT</h1>
+            <div class="display-graphs">
+                <button id="prevBtn">&#10094;</button> <!-- Previous Button -->
+                <div class="slides-container">
+                    <img src="images/graphs project2/CAFE-1.png" class="slide active">
+                    <img src="images/graphs project2/CAFE-2.png" class="slide">
+                    <img src="images/graphs project2/CAFE-3.png" class="slide">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <meta name="description"
+                        content="Fernando's portfolio - Data analysis, Python, SQL, Power BI, and Tableau projects.">
+                    <meta property="og:title" content="Fernando's Data Science Portfolio">
+                    <meta property="og:description"
+                        content="Explore projects on data analysis, housing prices, and fraud detection.">
+                    <meta property="og:image" content="images/preview.png">
+                    <meta property="og:url" content="https://yourwebsite.com">
+                    <meta property="og:type" content="website">
+                    <link rel="preconnect" href="https://fonts.googleapis.com">
+                    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                </div>
+                <button id="nextBtn">&#10095;</button> <!-- Next Button -->
+            </div>
+
+            <div class="description">
+                <div class="overview">
+                    <h2>Description</h2>
+                </div>
+                <div class="description-text">
+                    <p>The dataset I used was obtained from Kaggle and contained raw data regarding café transactions.
+                        The original data was messy and required significant cleaning to be useful for analysis. I
+                        started by using <strong>SQL</strong> to:</p>
+                    <ul>
+                        <li>Remove duplicates and irrelevant data</li>
+                        <li>Handle missing values</li>
+                        <li>Standardize product names and payment methods</li>
+                        <li>Aggregate the data to calculate total sales per product and identify trends</li>
+                    </ul>
+                    <p>After cleaning the data, I moved to <strong>Tableau</strong> to create several key
+                        visualizations. Some of the main insights included:</p>
+                    <ul>
+                        <li><strong>Sales trends over time</strong>, helping to identify peak days and times for
+                            business</li>
+                        <li><strong>Top-selling products</strong>, which helped the café understand customer preferences
+                        </li>
+                        <li><strong>Breakdown of payment methods</strong>, comparing cash vs. credit transactions</li>
+                        <li><strong>Comparison between dine-in and takeout sales</strong>, offering insight into
+                            customer behavior</li>
+                    </ul>
+                    <p>The outcome of this project was a series of interactive dashboards and graphs that allowed the
+                        café to make data-driven decisions about product offerings, marketing strategies, and
+                        operational adjustments.</p>
+                </div>
+                <div class="tools-used">
+
+                    <div class="skill-p"><img src="icons/skills-icons/tableau.svg" height=40 width=40>
+                    </div>
+                    <div class="skill-p"><img src="icons/skills-icons/sql-server.png" height=40 width=40>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="code">
+            <div class="code1">
+                <h2>Python Code</h2>
+                <div class="project-container">
+                    <pre><code class="language-python">
+                        <!--INSERT CODE HERE-->
+                            </code></pre>
+                </div>
+            </div>
+            <div class="code2">
+                <h2>SQL</h2>
+                <div class="project-container">
+                    <pre><code class="language-sql">                    
+                        CREATE TABLE cafe LIKE `tableconvert.com_q1n0gf`;
+
+INSERT cafe
+SELECT *
+FROM `tableconvert.com_q1n0gf`;
+
+ALTER TABLE cafe
+DROP COLUMN ID;
+
+UPDATE cafe
+SET payment_method = NULL
+WHERE payment_method LIKE '%ERROR%' OR payment_method LIKE '%UNKNOWN%';
+
+UPDATE cafe
+SET total_spent = NULL
+WHERE total_spent  LIKE '%ERROR%' OR total_spent  LIKE '%UNKNOWN%';
+
+UPDATE cafe
+SET total_spent = NULL
+WHERE total_spent  LIKE '%ERROR%' OR total_spent  LIKE '%UNKNOWN%';
+
+UPDATE cafe
+SET Location = NULL
+WHERE Location  LIKE '%ERROR%' OR Location  LIKE '%UNKNOWN%';
+
+UPDATE cafe
+SET Item = NULL
+WHERE Item LIKE '%ERROR%' OR Item LIKE '%UNKNOWN%';
+
+UPDATE cafe
+SET transaction_date = NULL
+WHERE transaction_date LIKE '%ERROR%' OR transaction_date LIKE '%UNKNOWN%';
+
+UPDATE cafe
+SET payment_method = 'Credit Card' 
+WHERE payment_method LIKE 'Digital%';
+
+UPDATE cafe
+SET total_spent = price_unit * Quantity
+WHERE price_unit IS NOT NULL AND Quantity IS NOT NULL;
+
+DELETE FROM cafe
+WHERE Item IS NULL OR Item = "";
+
+ALTER TABLE cafe
+MODIFY COLUMN transaction_date DATE;
+
+ALTER TABLE cafe
+MODIFY COLUMN transaction_date DATE;
+
+SELECT * 
+FROM cafe;
+                        </code>CREATE DATABASE Cafe;
+USE Cafe;
+SET SQL_SAFE_UPDATES = 0;
+
+CREATE TABLE cafe 
+LIKE dirty_cafe_sales;
+
+SELECT *
+FROM cafe;
+
+INSERT INTO cafe 
+SELECT *
+FROM dirty_cafe_sales;
+
+SELECT `Transaction ID`, COUNT(*)
+FROM cafe 
+GROUP BY `Transaction ID`
+HAVING COUNT(*) >1;
+-- No repetead transactions 
+
+SELECT `Transaction ID`, `Total Spent`
+FROM cafe 
+WHERE `Total Spent` = '' 
+OR `Total Spent` = 'ERROR'
+OR `Total Spent` = 	'UNKNOWN';
+
+UPDATE cafe 
+SET `Total Spent` = NULL 
+WHERE `Total Spent` = '' 
+OR `Total Spent` = 'ERROR'
+OR `Total Spent` = 	'UNKNOWN';
+
+SELECT `Total Spent`
+FROM cafe 
+WHERE `Total Spent` IS NULL;
+
+SELECT  Quantity, `Price Per Unit`,`Total Spent`
+FROM cafe;
+
+UPDATE cafe 
+SET  `Total Spent` = Quantity * `Price Per Unit`
+WHERE `Price Per Unit` IS NOT NULL OR Quantity IS NOT NULL; 
+
+SELECT `Payment Method`
+FROM cafe;
+
+UPDATE cafe
+SET `Payment Method` = 'Credit Card'
+WHERE `Payment Method` = 'Digital Wallet';
+
+Select *
+FROM cafe;
+
+UPDATE cafe 
+SET `Transaction Date` = NULL
+WHERE `Transaction Date` = ''
+OR `Transaction Date` = 'ERROR'
+OR `Transaction Date` = 	'UNKNOWN';
+
+ALTER TABLE cafe
+MODIFY COLUMN `Transaction Date` DATE;
+
+UPDATE cafe 
+SET Item = NUll
+WHERE Item = ''
+OR Item = 'ERROR'
+OR Item = 'UNKNOWN';
+
+DELETE FROM cafe 
+WHERE Item IS NULL;
+
+Select *
+FROM cafe;
+
+UPDATE cafe 
+SET `Payment Method` = NULL 
+WHERE `Payment Method` = ''
+OR `Payment Method` = 'ERROR'
+OR `Payment Method` = 'UNKNOWN';
+
+
+UPDATE cafe 
+SET `Location` = NULL 
+WHERE `Location` = ''
+OR `Location` = 'ERROR'
+OR `Location` = 'UNKNOWN';
+                        
+                        </pre>
+                </div>
+            </div>
+        </div>
+        <div class="documentation-wrap">
+            <div class="doc-title">
+                <h1>Documentation</h1>
+            </div>
+            <div class="documentation">
+                <ul>
+                    <li><a
+                            href="https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training">dirty_cafe_sales.xls</a>
+                    </li>
+                    <li><a href="datasets/project1/">cafe.xls</a></li>
+                    <li><a href="graphs/Cafe's overview.zip" download="Cafe's overview.zip" target="_blank">Cafe's
+                            Overview</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 Fernando Gonzalez. All rights reserved.</p>
+    </footer>
+    <script src="javascript/slider.js"></script>
+</body>
